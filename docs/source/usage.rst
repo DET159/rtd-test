@@ -5,6 +5,7 @@ Objective 1: Department of Air Force and AFROTC Grade Structure and Insignia
 
 Air Force Enlisted Grade Structure
 ------------
+|
 .. image:: images/Rank_1.png
    :width: 800
    :align: center
@@ -16,15 +17,21 @@ Air Force Enlisted Grade Structure
 
    (.venv) $ pip install lumache
 
+|
+
 Space Force Enlisted Grade Structure
 ------------
+|
 .. image:: images/Rank_2.jpg
    :width: 400
    :align: center
 
 
+
 Air Force and Joint Officer Grade Structure
 ------------
+
+|
 .. image:: images/Rank_3.png
    :width: 500
    :align: center
@@ -32,7 +39,9 @@ Air Force and Joint Officer Grade Structure
 
 AFROTC Cadet Grade Structure
 ------------
-.. image:: images/Rank_4.png
+
+||
+|.. image:: images/Rank_4.png
    :width: 500
    :align: center
 
@@ -40,7 +49,7 @@ AFROTC Cadet Grade Structure
 
 
 
-.. 
+.. 0
    To retrieve a list of random ingredients,
    you can use the ``lumache.get_random_ingredients()`` function:
 
