@@ -7,6 +7,7 @@ Air Force Enlisted Grade Structure
 ------------
 .. image:: images/Rank_1.png
    :width: 800
+   :align: center
 ..
    To use Lumache, first install it using pip:
 
@@ -19,18 +20,21 @@ Space Force Enlisted Grade Structure
 ------------
 .. image:: images/Rank_2.png
    :width: 454
+   :align: center
 
 
 Air Force and Joint Officer Grade Structure
 ------------
 .. image:: images/Rank_3.png
    :width: 800
+   :align: center
 
 
 AFROTC Cadet Grade Structure
 ------------
 .. image:: images/Rank_3.png
    :width: 775
+   :align: center
 
 
 
