@@ -5,6 +5,8 @@ Objective 1: Department of Air Force and AFROTC Grade Structure and Insignia
 
 Air Force Enlisted Grade Structure
 ------------
+.. image:: images/Rank_1.png
+   :width: 800
 ..
    To use Lumache, first install it using pip:
 
@@ -15,16 +17,20 @@ Air Force Enlisted Grade Structure
 
 Space Force Enlisted Grade Structure
 ------------
+.. image:: images/Rank_2.png
+   :width: 454
 
-.. image:: images/Rank_1.png
-   :width: 800
 
 Air Force and Joint Officer Grade Structure
 ------------
+.. image:: images/Rank_3.png
+   :width: 800
+
 
 AFROTC Cadet Grade Structure
 ------------
-
+.. image:: images/Rank_3.png
+   :width: 775
 
 
 
