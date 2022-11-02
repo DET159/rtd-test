@@ -19,21 +19,21 @@ Air Force Enlisted Grade Structure
 Space Force Enlisted Grade Structure
 ------------
 .. image:: images/Rank_2.jpg
-   :width: 454
+   :width: 400
    :align: center
 
 
 Air Force and Joint Officer Grade Structure
 ------------
 .. image:: images/Rank_3.png
-   :width: 800
+   :width: 500
    :align: center
 
 
 AFROTC Cadet Grade Structure
 ------------
-.. image:: images/Rank_3.png
-   :width: 775
+.. image:: images/Rank_4.png
+   :width: 500
    :align: center
 
 
