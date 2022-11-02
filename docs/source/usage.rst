@@ -18,7 +18,7 @@ Air Force Enlisted Grade Structure
 
 Space Force Enlisted Grade Structure
 ------------
-.. image:: images/Rank_2.png
+.. image:: images/Rank_2.jpg
    :width: 454
    :align: center
 
