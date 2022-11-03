@@ -40,7 +40,7 @@ Air Force and Joint Officer Grade Structure
 AFROTC Cadet Grade Structure
 ------------
 
-||
+|
 |.. image:: images/Rank_4.png
    :width: 500
    :align: center

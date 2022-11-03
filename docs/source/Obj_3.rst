@@ -1,7 +1,13 @@
 Objective 3: AFROTC Honor Code
 ====
 
-.. class: center
+.. rst-class:: center
+
+== == ==
+a  b  c
+1  2  3
+== == ==
+
 
 **“We will not lie, steal, or cheat,** |br|
 **nor tolerate among us anyone who does.”**
