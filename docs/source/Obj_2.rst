@@ -4,6 +4,7 @@ Objective 2: Department of Air Force and AFROTC Chain of Command
 Department of Air Force Chain of Command
 ----------
 **Air Force**
+
 | President: ________________________________ The Honorable Joseph R. Biden
 
 | Secretary of Defense: _______________________ The Honorable Lloyd J. Austin 
