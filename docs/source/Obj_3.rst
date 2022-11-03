@@ -1,8 +1,6 @@
 Objective 3: AFROTC Honor Code
 ====
 
-
-
 **“We will not lie, steal, or cheat,** 
 
 | **nor tolerate among us anyone who does.”**
@@ -21,7 +19,10 @@ The purpose of the Honor Code is to foster an environment based upon a personal 
 
 | In essence, cheating is taking unfair advantage of another. Cheating violates the competitive sense of “fair play”. An example of cheating is not completing the minimum required push-ups during the Fitness Assessment, yet coercing your spotter to indicate otherwise or knowingly allow it to occur.
  
-**Toleration**
-
+**Toleration** |br|
 | Toleration means the conditional acceptance of, or non-interference of, wrong-doings. If you know a cadet has lied, stolen, or cheated, and you fail to report or confront the matter, you may be guilty of toleration.
+
+.. |br| raw:: html
+
+   <br />
 
