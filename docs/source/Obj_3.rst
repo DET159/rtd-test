@@ -2,7 +2,6 @@ Objective 3: AFROTC Honor Code
 ====
 
 .. pull-quote::
-    :align: center
 
     **“We will not lie, steal, or cheat,** |br|
     **nor tolerate among us anyone who does.”**
