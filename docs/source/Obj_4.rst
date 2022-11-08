@@ -58,7 +58,7 @@ Reporting In/Out
 
 Display of the Flag
 -------------
-Per AFI 34-1201 *Protocol* |br|
+Per AFI 34-1201 *Protocol:* |br|
 
 **Position and Manner of Display:**
 
