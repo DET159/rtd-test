@@ -21,10 +21,11 @@ Contents
 
 .. toctree::
  
-   usage
+   Obj_1
    Obj_2
    Obj_3
    Obj_4
+   Obj_5
    
 
 Lumache has its documentation hosted on Read the Docs.
