@@ -3,6 +3,9 @@ Objective 4: Department of the Air Force Customs and Courtesies
 
 Saluting
 ---------
+::
+    Insert Video 1 here
+
 
 The salute is one of the oldest military traditions. It is a courtesy exchanged between members of the armed forces as both a greeting and a symbol of mutual respect. Cadets adhere to DAFPAM 34-1203, Drill and Ceremonies, para 3.6 Exchange of Salutes. The uniform hat is worn and salutes are rendered in all outdoor areas, unless specifically indicated otherwise. Although inappropriate at certain times, it is never incorrect to salute a senior officer outdoors as a courtesy and a greeting. Do not salute indoors unless formally reporting in to a staff member's office or upon receiving an award at an awards ceremony. Do not salute when reporting to enlisted staff members.
 
@@ -19,11 +22,14 @@ The salute is one of the oldest military traditions. It is a courtesy exchanged 
 Reporting In/Out
 -----------
 
+::
+    Insert Video 2 here
+
 **Single Cadet:**
 
 #. Center on the door or cubicle entrance and knock once loud enough to be heard in an average size room. (Do not knock on the door or cubicle wall if a conversation is taking place in the office). |br|
 
-#. When given the order, enter, close the door if you opened it or ordered to do so, march using the most direct route to the staff member, perform the appropriate facing movement, center yourself two paces away from the individual, salute if reporting to an officer and state: **“Sir/Ma’am, Cadet (last name) reports as ordered.” **(If on carpet, do not square corners). |br|
+#. When given the order, enter, close the door if you opened it or ordered to do so, march using the most direct route to the staff member, perform the appropriate facing movement, center yourself two paces away from the individual, salute if reporting to an officer and state: **“Sir/Ma’am, Cadet (last name) reports as ordered.”** (If on carpet, do not square corners). |br|
 
 #. When reporting to an officer, the reporting cadet salutes and holds the salute until the officer drops their salute. Remain at the position of attention until told otherwise. |br|
 
@@ -35,7 +41,7 @@ Reporting In/Out
 
 #. When given the order, enter, close the door if you opened it or are directed to do so, march using the most direct route to the staff member, perform the appropriate facing movement, all cadets will center two paces away from the staff member with the selected cadet standing on the right, and all will salute (if officer). |br|
 
-#. This cadet will state on behalf of the others, **“Sir/Ma’am, Cadets (give last names of the whole party) report as ordered.” **(If on carpet, do not square corners). |br|
+#. This cadet will state on behalf of the others, **“Sir/Ma’am, Cadets (give last names of the whole party) report as ordered.”** (If on carpet, do not square corners). |br|
 
 #. All cadets will hold the salute until the officer drops their salute and remain at the position of attention until told otherwise. |br|
 
@@ -43,7 +49,7 @@ Reporting In/Out
 
 **Not Ordered to Report:**
 
-* The cadet will use the preceding procedures with the following exception: instead of using the above reporting statement, use the appropriate remarks: **“Sir/Ma'am, Cadet (last name) reports.” Once acknowledged by the staff member, the cadet will continue with the question or statement.** |br|
+* The cadet will use the preceding procedures with the following exception: instead of using the above reporting statement, use the appropriate remarks: **“Sir/Ma'am, Cadet (last name) reports.”** Once acknowledged by the staff member, the cadet will continue with the question or statement.** |br|
 
 Display of the Flag
 -------------
