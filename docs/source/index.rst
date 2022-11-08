@@ -24,6 +24,7 @@ Contents
    usage
    Obj_2
    Obj_3
+   Obj_4
    
 
 Lumache has its documentation hosted on Read the Docs.
