@@ -1,10 +1,10 @@
 Objective 3: AFROTC Honor Code
 ====
 
-.. rst-class:: center
+.. epigraph:: center
 
-    >>**“We will not lie, steal, or cheat,** |br|
-    >>**nor tolerate among us anyone who does.”**
+    **“We will not lie, steal, or cheat,** |br|
+    **nor tolerate among us anyone who does.”**
 
 The purpose of the Honor Code is to foster an environment based upon a personal sense of honesty and integrity. Implementation of the Honor Code means not only can you be trusted but that you also have the moral courage to confront those who violate these standards.
  
