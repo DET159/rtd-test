@@ -3,9 +3,12 @@ Objective 4: Department of the Air Force Customs and Courtesies
 
 Saluting
 ---------
+
 :: 
 
     Insert Video 1 here
+
+    Insert Video 2 here
 
 
 The salute is one of the oldest military traditions. It is a courtesy exchanged between members of the armed forces as both a greeting and a symbol of mutual respect. Cadets adhere to DAFPAM 34-1203, Drill and Ceremonies, para 3.6 Exchange of Salutes. The uniform hat is worn and salutes are rendered in all outdoor areas, unless specifically indicated otherwise. Although inappropriate at certain times, it is never incorrect to salute a senior officer outdoors as a courtesy and a greeting. Do not salute indoors unless formally reporting in to a staff member's office or upon receiving an award at an awards ceremony. Do not salute when reporting to enlisted staff members.
@@ -25,7 +28,7 @@ Reporting In/Out
 
 :: 
 
-    Insert Video 2 here
+    Insert Video 3 here
 
 **Single Cadet:**
 
@@ -121,6 +124,126 @@ Flags of other nations are flown or displayed in equal size and on poles of equa
     #. Air National Guard of the United States
     #. Air Force Reserve
     #. Coast Guard Reserve
+
+Folding of the Flag
+------------
+Per AFI 34-1201 *Protocol:*::
+
+    Insert Image 7 here
+
+::
+
+Reveille
+------------
+
+:: 
+
+    Insert Video 4 here
+
+#. The Detail Commander will call **Standby, Detail Fall In**
+
+    * All commands except sound reveille and attention to the colors will be done in a hushed tone.
+
+#. The Detail Commander will Fall In behind the Front Halyard for Reveille
+#. Shortly after the highest-ranking member of Cadre has formed the Flight, the Detail Commander will give **Forward MARCH**
+
+    * Cadence is allowed but it must also be done in a hushed tone
+
+#. Slightly before the Front Halyard passes the flagstaff the Detail Commander will give a **Left Flank MARCH** then immediately **Detail HALT**
+#. The Detail Commander will order **SOUND REVEILLE** then immediately order **Parade REST**
+
+    * The Detail will stay at Parade Rest until the end of Reveille
+
+#. The Detail Commander will order **Detail ATTENTION** then will order post three times
+
+    * On the First **POST** the Halyards will take one step forward
+    * On the second **POST** the Halyards will face inwards toward the flagstaff
+    * On the third **POST** the Halyards will take one step towards the flagstaff
+
+#. The Front Halyard will then take the halyards and hand off one to the rear Halyard
+
+    * With a small head nod from the Front Halyard both Halyards will take a small step back to make the halyard taut
+
+#. Halyards will then lower the halyard until the final clip is in the Front Halyard’s hands
+#. The Detail Commander will hand the union to the Front Halyard, then the Front Halyard will attach the clip. The Detail Commander and Front Halyard will repeat the same process with the bottom clip of the US flag
+#. The POW/MIA Flag Bearer will then repeat the same process with the Front Halyard and the POW/MIA flag
+
+    * The Detail Commander and POW/MIA Flag Bearer will hold both their flags until after the flag is hoisted clear of their grasp
+
+#. The Detail Commander will order **ATTENTION TO THE COLORS** which signals the Halyards to raise the flags and the playing of “To the Colors”
+#. After the flag has left their grasp the Detail Commander will order **Present ARMS**
+#. Once the flags are hoisted, the Rear Halyard will hand their halyard back to the Front Halyard. The Rear Halyard then executes present arms.
+#. The Front Halyard will secure the halyard to the flagstaff then execute present arms
+#. The Detail Commander will command **Order ARMS** then order post three times
+    
+    ..
+        Tell Lukas about thingy here ^^
+    * On the first **POST** the Halyards will take one step back
+    * On the second **POST** the Halyards will face towards the Flag Bearers and the Flag Bearers will perform a left face
+    * On the third **POST** the Halyards will take one step forward and the Flag Bearers will perform a left face
+
+#. The Detail Commander reports to the highest-ranking cadre member present: **Sir/Ma’am the colors are secured**
+
+    * Preferably, address Cadre with their rank and name
+
+..
+    Colors are Secured during reville?
+#. The Detail Commander will order **Forward MARCH** then immediately **Right Flank MARCH**
+#. Once back to where the detail fell in, the Detail Commander will order **Detail HALT** and **Fallout**
+
+Retreat
+----------
+
+::
+
+    Insert Video 5 here
+
+#. The Detail Commander will call **Standby, Detail Fall In**
+
+    * All commands except sound retreat and attention to the colors will be done in a hushed tone
+
+#. The Detail Commander will Fall In in front of the Rear Halyard for Retreat
+#. Shortly after the highest-ranking member of Cadre has formed the Flight, the Detail Commander will give **Forward MARCH**
+
+    * Cadence is allowed but it must also be done in a hushed tone
+
+#. Slightly before the Front Halyard passes the flagstaff the Detail Commander will give a **Left Flank MARCH** then immediately **Detail HALT**
+#. The Detail Commander will order **SOUND RETREAT** then immediately order **Parade REST**
+
+    * The Detail will stay at Parade Rest until the end of Retreat
+
+#. The Detail Commander will order **Detail ATTENTION** then will order post three times
+
+    * On the First **POST** the Halyards will take one step forward
+    * On the second **POST** the Halyards will face inwards toward the flagstaff
+    * On the third **POST** the Halyards will take one step towards the flagstaff
+
+#. The Front Halyard will then take the halyards and hand off one to the rear Halyard
+
+    * With a small head nod from the Front Halyard both Halyards will take a small step back to make the halyard taut
+
+#. The Detail Commander will order **ATTENTION TO THE COLORS**
+#. The Halyards will then lower the flags at a slow pace and the Detail Commander will order **Present ARMS**
+
+    * If the flag is at half-staff, the Halyards will hoist the flags at a brisk pace to the top of the flagstaff, then lower the flags at a slow pace
+
+#. Once the flags are within view the Detail Commander will command: **Order ARMS** and both flags will be secured by their respective bearer
+#. Once the flags are unclipped and secured the Halyards will hoist the halyard to the top of that flagstaff at a brisk pace
+#. The Rear Halyard will hand off the halyard to the Front Halyard and the Front Halyard will secure it to the flagstaff
+#. The Detail Commander will then order post three times
+
+    * On the first **POST** the Halyards will take one step back
+    * On the second **POST** the Halyards will face towards the Flag Bearers and the Flag Bearers will perform a left face
+    * On the third **POST** the Halyards will take one step forward and the Flag Bearers will perform a left face
+
+#. The Detail Commander reports to the highest-ranking cadre member present: **Sir/Ma’am the colors are secured**
+
+    * Preferably, address Cadre with their rank and name
+
+#. The Detail Commander will order **Forward MARCH** then immediately **Right Flank MARCH**
+#. Once back to where the detail fell in, the Detail Commander will order **Detail HALT** and **Fallout**
+
+
 
 
 
