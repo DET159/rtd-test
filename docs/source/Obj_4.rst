@@ -3,7 +3,7 @@ Objective 4: Department of the Air Force Customs and Courtesies
 
 Saluting
 ---------
-:: 
+ :: 
     Insert Video 1 here
 
 
@@ -22,7 +22,7 @@ The salute is one of the oldest military traditions. It is a courtesy exchanged 
 Reporting In/Out
 -----------
 
-:: 
+ :: 
     Insert Video 2 here
 
 **Single Cadet:**
