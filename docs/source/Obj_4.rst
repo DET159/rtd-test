@@ -182,12 +182,13 @@ Reveille
     * On the second **POST** the Halyards will face towards the Flag Bearers and the Flag Bearers will perform a left face
     * On the third **POST** the Halyards will take one step forward and the Flag Bearers will perform a left face
 
-#. The Detail Commander reports to the highest-ranking cadre member present: **Sir/Ma’am the colors are secured**
-
-    * Preferably, address Cadre with their rank and name
-
 ..
-    Colors are Secured during reville?
+    #. The Detail Commander reports to the highest-ranking cadre member present: **Sir/Ma’am the colors are secured**
+
+        * Preferably, address Cadre with their rank and name
+
+    ..
+        Colors are Secured during reville?
 #. The Detail Commander will order **Forward MARCH** then immediately **Right Flank MARCH**
 #. Once back to where the detail fell in, the Detail Commander will order **Detail HALT** and **Fallout**
 
