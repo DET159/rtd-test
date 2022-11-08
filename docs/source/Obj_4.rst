@@ -21,20 +21,21 @@ Reporting In/Out
 
 **Single Cadet:**
 
-#. Center on the door or cubicle entrance and knock once loud enough to be heard in an average size room. (Do not knock on the door or cubicle wall if a conversation is taking place in the office).
-#. When given the order, enter, close the door if you opened it or ordered to do so, march using the most direct route to the staff member, perform the appropriate facing movement, center yourself two paces away from the individual, salute if reporting to an officer and state: **“Sir/Ma’am, Cadet (last name) reports as ordered.” **(If on carpet, do not square corners).
-#. When reporting to an officer, the reporting cadet salutes and holds the salute until the officer drops their salute. Remain at the position of attention until told otherwise.
+#. Center on the door or cubicle entrance and knock once loud enough to be heard in an average size room. (Do not knock on the door or cubicle wall if a conversation is taking place in the office). |br|
+#. When given the order, enter, close the door if you opened it or ordered to do so, march using the most direct route to the staff member, perform the appropriate facing movement, center yourself two paces away from the individual, salute if reporting to an officer and state: **“Sir/Ma’am, Cadet (last name) reports as ordered.” **(If on carpet, do not square corners). |br|
+#. When reporting to an officer, the reporting cadet salutes and holds the salute until the officer drops their salute. Remain at the position of attention until told otherwise. |br|
 #. At the end of a conversation, cadets will stand and assume the position of attention and ask, **"Will that be all Sir/Ma'am?"** If so, take one step backwards, salute (if reporting to officers) and render the proper greeting of the day, perform the appropriate facing movement to leave, and take the most direct route out of the office or cubicle. |br|
 
 **Multiple Cadets:**
 
-#. A selected cadet will center on the door or cubicle entrance and knock once loud enough to be heard in an average size room. (Do not knock on the door or cubicle wall if a conversation is taking place in the office).
-#. When given the order, enter, close the door if you opened it or are directed to do so, march using the most direct route to the staff member, perform the appropriate facing movement, all cadets will center two paces away from the staff member with the selected cadet standing on the right, and all will salute (if officer).
-#. This cadet will state on behalf of the others, **“Sir/Ma’am, Cadets (give last names of the whole party) report as ordered.” **(If on carpet, do not square corners).
-#. All cadets will hold the salute until the officer drops their salute and remain at the position of attention until told otherwise.
+#. A selected cadet will center on the door or cubicle entrance and knock once loud enough to be heard in an average size room. (Do not knock on the door or cubicle wall if a conversation is taking place in the office). |br|
+#. When given the order, enter, close the door if you opened it or are directed to do so, march using the most direct route to the staff member, perform the appropriate facing movement, all cadets will center two paces away from the staff member with the selected cadet standing on the right, and all will salute (if officer). |br|
+#. This cadet will state on behalf of the others, **“Sir/Ma’am, Cadets (give last names of the whole party) report as ordered.” **(If on carpet, do not square corners). |br|
+#. All cadets will hold the salute until the officer drops their salute and remain at the position of attention until told otherwise. |br|
 #. At the end of the conversation, all will stand (if previously seated) and assume the position of attention and the selected cadet will ask, **“Will that be all Sir/Ma’am?”** If so, all cadets will take one step backwards, salute (if reporting to officers) and the selected cadet will render the proper greeting of the day. All cadets perform the appropriate facing movement to leave, and take the most direct route out of the office or cubicle. If on carpet, do not square corners. |br|
 
 **Not Ordered to Report:**
+
 * The cadet will use the preceding procedures with the following exception: instead of using the above reporting statement, use the appropriate remarks: “Sir/Ma'am, Cadet (last name) reports.” Once acknowledged by the staff member, the cadet will continue with the question or statement. |br|
 
 Display of the Flag
@@ -77,13 +78,16 @@ Flags of other nations are flown or displayed in equal size and on poles of equa
 
 #. The United States Flag.
 #. Foreign national flags. 
+
     #. Normally, these are displayed in alphabetical order using the English alphabet. At the North Atlantic Treaty Organization (NATO) Headquarters, NATO member country flags are displayed in alphabetical order by their native country name (i.e., Deutschland vice Germany).
 #. Flag of the President of the United States of America.
 #. State and territorial flags. 
+
     #. State flags should be displayed in order of admittance of the state to the Union. Territorial flags, when displayed, are displayed after the state flags in the order they were recognized by the United States.
 #. City Flags
 #. Departmental Flags
 #. Military organizational flags of the Services in order of precedence:
+
     #. Cadets, United States Military Academy
     #. Midshipmen, United States Naval Academy
     #. Cadets, United States Air Force Academy
