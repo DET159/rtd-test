@@ -95,108 +95,109 @@ A flight forms in at least two, but not more than four, elements in line formati
 
 | To resume marching, the command “Forward, MARCH” is given as the heel of the left foot strikes the ground. The Airman takes one more step in place and then steps off in a full 24-inch step with the left foot.
 
-Intermediate Flight Drill
--------------------------
+..
+    Intermediate Flight Drill
+    -------------------------
 
-| **Column Movements**
+    | **Column Movements**
 
 
-| The command is “COLUMN RIGHT (LEFT) MARCH”. The command is called on the right foot if going to the right and called on the left foot if going left. The inside element makes an immediate 90-degree turn and goes into half-step. The middle element pivots 45-degrees, takes one step, pivots another 45-degrees on the next step, and enters half-step. The outside element pivots 45-degrees, takes three steps, pivots another 45-degrees on the next step, and enters half-step.
+    | The command is “COLUMN RIGHT (LEFT) MARCH”. The command is called on the right foot if going to the right and called on the left foot if going left. The inside element makes an immediate 90-degree turn and goes into half-step. The middle element pivots 45-degrees, takes one step, pivots another 45-degrees on the next step, and enters half-step. The outside element pivots 45-degrees, takes three steps, pivots another 45-degrees on the next step, and enters half-step.
 
-| The guide performs the pivots and steps exactly as the element leader to which they are affixed. Following completion of the pivots, the guide continues in a 24-inch step until he or she is ahead of the fourth element leader. The guide pivots 45 degrees to a position in front of the fourth element leader; then he or she pivots 45 degrees again toward the front and begins half stepping.
+    | The guide performs the pivots and steps exactly as the element leader to which they are affixed. Following completion of the pivots, the guide continues in a 24-inch step until he or she is ahead of the fourth element leader. The guide pivots 45 degrees to a position in front of the fourth element leader; then he or she pivots 45 degrees again toward the front and begins half stepping.
 
-| Once the entire formation has changed direction and dress, cover, interval, and distance are reestablished, Forward March will be called to resume normal marching. ::
+    | Once the entire formation has changed direction and dress, cover, interval, and distance are reestablished, Forward March will be called to resume normal marching. ::
 
-    Insert Image 3 here
+        Insert Image 3 here
 
-| **Column Half Right (Left): ** The Command, “COLUMN HALF RIGHT (LEFT) MARCH”, is called on the right foot if going right and left foot if going left. Differing from a normal Column Right (Left), all three element leaders turn 45 degrees simultaneously. The first element leader will go to half-step, joined by the second, until all three are in-line with each other. Once they are, they will automatically resume the normal 24-inch step (no forward march is called after the movement is completed).
+    | **Column Half Right (Left): ** The Command, “COLUMN HALF RIGHT (LEFT) MARCH”, is called on the right foot if going right and left foot if going left. Differing from a normal Column Right (Left), all three element leaders turn 45 degrees simultaneously. The first element leader will go to half-step, joined by the second, until all three are in-line with each other. Once they are, they will automatically resume the normal 24-inch step (no forward march is called after the movement is completed).
 
-| **Flanking Movements**
+    | **Flanking Movements**
 
-| The command is Right (Left) Flank, MARCH, given as the heel of the right (left) foot strikes the ground. On the command MARCH, the Airman takes one more 24-inch step, pivots 90 degrees to the right (left) on the ball of the left (right) foot, keeping the upper portion of the body at the position of attention. Then step off with the right (left) foot in the new direction of march with a full 24-inch step and coordinated arm swing. Arm swing is suspended to the sides as the weight of the body comes forward on the pivot foot. The pivot and step off are executed in one count. This movement is used for a quick movement to the right or left for short distances only. Throughout the movement, maintain proper dress, cover, interval, and distance.
+    | The command is Right (Left) Flank, MARCH, given as the heel of the right (left) foot strikes the ground. On the command MARCH, the Airman takes one more 24-inch step, pivots 90 degrees to the right (left) on the ball of the left (right) foot, keeping the upper portion of the body at the position of attention. Then step off with the right (left) foot in the new direction of march with a full 24-inch step and coordinated arm swing. Arm swing is suspended to the sides as the weight of the body comes forward on the pivot foot. The pivot and step off are executed in one count. This movement is used for a quick movement to the right or left for short distances only. Throughout the movement, maintain proper dress, cover, interval, and distance.
 
-| **Left / Right Step**
+    | **Left / Right Step**
 
-| The command is Right (Left) Step, MARCH, given only from a halt and for moving short distances. On the command MARCH, the Airman raises the right (left) leg from the hip just high enough to clear the ground. The leg will be kept straight, but not stiff, throughout the movement. The individual places the right (left) foot 12 inches, as measured from the inside of the heels, to the right (left) of the left (right) foot. Transfer the weight of the body to the right (left) foot, then bring the left (right) foot (without scraping the ground) smartly to a position alongside the right (left) foot as in the position of attention. This movement is continued in quick time; the upper portion of the body remains at attention and arms remain at the sides throughout.
+    | The command is Right (Left) Step, MARCH, given only from a halt and for moving short distances. On the command MARCH, the Airman raises the right (left) leg from the hip just high enough to clear the ground. The leg will be kept straight, but not stiff, throughout the movement. The individual places the right (left) foot 12 inches, as measured from the inside of the heels, to the right (left) of the left (right) foot. Transfer the weight of the body to the right (left) foot, then bring the left (right) foot (without scraping the ground) smartly to a position alongside the right (left) foot as in the position of attention. This movement is continued in quick time; the upper portion of the body remains at attention and arms remain at the sides throughout.
 
-| Cadence may be counted during this movement. Counts one and three are given as the right (left) foot strikes the ground. Counts two and four are given as the heels come together.
+    | Cadence may be counted during this movement. Counts one and three are given as the right (left) foot strikes the ground. Counts two and four are given as the heels come together.
 
-| To halt from the right (left) step, the preparatory command and command of execution are given as the heels come together. The halt from the right (left) step is executed in two counts. On the command HALT, one more step is taken with the right (left) foot and the left (right) foot is placed smartly alongside the right (left) foot as in the position of attention.
+    | To halt from the right (left) step, the preparatory command and command of execution are given as the heels come together. The halt from the right (left) step is executed in two counts. On the command HALT, one more step is taken with the right (left) foot and the left (right) foot is placed smartly alongside the right (left) foot as in the position of attention.
 
-| **To the Rear**
+    | **To the Rear**
 
-| The command is “To the Rear, MARCH”, given as the heel of the right foot strikes the ground. On the command “MARCH”, take a 12-inch step with the left foot, placing it in front of and in line with the right foot and distribute the weight of the body on the balls of both feet. Then pivot on the balls of both feet, turning 180 degrees to the right, and take a 12-inch step with the left foot in the new direction, with coordinated arm swing, before taking a full 24-inch step with the right foot. While pivoting, do not force the body up or lean forward. The pivot takes a full count and the arm swing is suspended to the sides as the weight of the body comes forward while executing the pivot, as if at the position of attention.
- 
-| **Double Time / Quick Time**
+    | The command is “To the Rear, MARCH”, given as the heel of the right foot strikes the ground. On the command “MARCH”, take a 12-inch step with the left foot, placing it in front of and in line with the right foot and distribute the weight of the body on the balls of both feet. Then pivot on the balls of both feet, turning 180 degrees to the right, and take a 12-inch step with the left foot in the new direction, with coordinated arm swing, before taking a full 24-inch step with the right foot. While pivoting, do not force the body up or lean forward. The pivot takes a full count and the arm swing is suspended to the sides as the weight of the body comes forward while executing the pivot, as if at the position of attention.
+    
+    | **Double Time / Quick Time**
 
-| To march in double time from a halt or when marching in quick time, the command is “DOUBLE TIME, MARCH”.
+    | To march in double time from a halt or when marching in quick time, the command is “DOUBLE TIME, MARCH”.
 
-| When halted and on the command “MARCH”, begin with the left foot, raise the forearms to a horizontal position along the waistline, cup the hands with the knuckles out, and begin an easy run of 180 steps per minute with 30-inch steps, measured from heel to heel. Coordinated motion of the arms is maintained throughout.
+    | When halted and on the command “MARCH”, begin with the left foot, raise the forearms to a horizontal position along the waistline, cup the hands with the knuckles out, and begin an easy run of 180 steps per minute with 30-inch steps, measured from heel to heel. Coordinated motion of the arms is maintained throughout.
 
-| When marching in quick time and on the command MARCH (given as either foot strikes the ground), the Airman takes one more step in quick time and then steps off in double time.
+    | When marching in quick time and on the command MARCH (given as either foot strikes the ground), the Airman takes one more step in quick time and then steps off in double time.
 
-| To resume quick time from double time, the command is Quick Time, MARCH, with four steps between commands. On the command MARCH (given as either foot strikes the ground), the Airman advances two more steps in double time, resumes quick time, lowers the arms to the sides, and resumes coordinated arm swing.
+    | To resume quick time from double time, the command is Quick Time, MARCH, with four steps between commands. On the command MARCH (given as either foot strikes the ground), the Airman advances two more steps in double time, resumes quick time, lowers the arms to the sides, and resumes coordinated arm swing.
 
-| To halt from double time, the command Flight, HALT is given as either foot strikes the ground, with four steps between commands. Take two more steps in double time and halt in two counts at quick time, lowering the arms to the sides.
+    | To halt from double time, the command Flight, HALT is given as either foot strikes the ground, with four steps between commands. Take two more steps in double time and halt in two counts at quick time, lowering the arms to the sides.
 
-| The only commands that can be given while in double time are Incline To The Right (Left); Quick Time, MARCH; and Flight, HALT.
- 
-| **Route Step**
+    | The only commands that can be given while in double time are Incline To The Right (Left); Quick Time, MARCH; and Flight, HALT.
+    
+    | **Route Step**
 
-| Route Step March. The command is Route Step, MARCH. On the command MARCH, the Airman takes one more 24-inch step and assumes route step. Neither silence nor cadence is required, and movement is permitted as long as dress, cover, interval, and distance are maintained.
+    | Route Step March. The command is Route Step, MARCH. On the command MARCH, the Airman takes one more 24-inch step and assumes route step. Neither silence nor cadence is required, and movement is permitted as long as dress, cover, interval, and distance are maintained.
 
-| **Marching Other Than at Attention:** The commands below may be given as the heel of either foot strikes the ground as long as both the preparatory command and command of execution are given on the same foot and only from QuickTime. The only command that can be given when marching at other than attention is Incline to the Right (Left). Specific instructions may be given to maintain control of the flight. Example: “Guide, incline 90 degrees to the Right; Guide, incline 45 degrees to the Left”. Otherwise, the flight must be called to attention before other commands may be given
+    | **Marching Other Than at Attention:** The commands below may be given as the heel of either foot strikes the ground as long as both the preparatory command and command of execution are given on the same foot and only from QuickTime. The only command that can be given when marching at other than attention is Incline to the Right (Left). Specific instructions may be given to maintain control of the flight. Example: “Guide, incline 90 degrees to the Right; Guide, incline 45 degrees to the Left”. Otherwise, the flight must be called to attention before other commands may be given
 
-| **Transfer of Command** ::
+    | **Transfer of Command** ::
 
-    Insert Video 1 here
+        Insert Video 1 here
 
-    Insert Video 2 here
+        Insert Video 2 here
 
-| Note for this example *“Cadet A”* will be the starting FLT/CC, and *“Cadet B”* will be the one replacing them.
+    | Note for this example *“Cadet A”* will be the starting FLT/CC, and *“Cadet B”* will be the one replacing them.
 
-#. Firstly, the FLT/CC, *Cadet A*, will command **“Cadet B, front and center”.** This should be monotone and quick, no change in pitch/sing song inflection.
-#. *Cadet B* will fall out of the flight and make their way around the left side of the flight.
-#. *Cadet B* will stand in front of Cadet A at attention, salute, and say **“Cadet A, Cadet B reports as ordered.”**
-#. At this point *Cadet A* will drop their salute, and will be the first to do so. (They are still in command) A will say **“Cadet B, take control of the flight.”**
-#. After a moment both cadets will take a step with arm swings. *Cadet A* will take a step backward with their RIGHT foot, *Cadet B* will take a step forward with their LEFT. **This needs to be in sync! ← Hardest part**
-#. *Cadet A* will now salute *Cadet B* and state the following; **“Cadet B, Cadet A requests permission to fall into the rear of the flight.” **
-#. *Cadet B* will respond with **“Fall into the rear of the flight.” **
-#. Once *Cadet B* drops their salute, *Cadet A* will drop theirs, and make their way to the rear of the flight. (Note that *Cadet B* is now in command and drops salute first)
-#. Important Notes:
+    #. Firstly, the FLT/CC, *Cadet A*, will command **“Cadet B, front and center”.** This should be monotone and quick, no change in pitch/sing song inflection.
+    #. *Cadet B* will fall out of the flight and make their way around the left side of the flight.
+    #. *Cadet B* will stand in front of Cadet A at attention, salute, and say **“Cadet A, Cadet B reports as ordered.”**
+    #. At this point *Cadet A* will drop their salute, and will be the first to do so. (They are still in command) A will say **“Cadet B, take control of the flight.”**
+    #. After a moment both cadets will take a step with arm swings. *Cadet A* will take a step backward with their RIGHT foot, *Cadet B* will take a step forward with their LEFT. **This needs to be in sync! ← Hardest part**
+    #. *Cadet A* will now salute *Cadet B* and state the following; **“Cadet B, Cadet A requests permission to fall into the rear of the flight.” **
+    #. *Cadet B* will respond with **“Fall into the rear of the flight.” **
+    #. Once *Cadet B* drops their salute, *Cadet A* will drop theirs, and make their way to the rear of the flight. (Note that *Cadet B* is now in command and drops salute first)
+    #. Important Notes:
 
-    * *Cadet A* should go to the rearmost spot in the flight no matter where the deputy is. They should also ignore the hole in the flight.
-    * Cadets cannot return to ranks if they were never in the flight.
-    * *Cadet B* first command should be preceded by “By my command!”
+        * *Cadet A* should go to the rearmost spot in the flight no matter where the deputy is. They should also ignore the hole in the flight.
+        * Cadets cannot return to ranks if they were never in the flight.
+        * *Cadet B* first command should be preceded by “By my command!”
 
-Advanced Flight Drill
----------------------
+    Advanced Flight Drill
+    ---------------------
 
-| **Column of Files**
+    | **Column of Files**
 
-| To form a single file when in a column of two or more elements, the command is “Column of Files from the Right (Left), Forward, MARCH”. If the movement is from the left, the guide takes a position in front of the file that will move first upon hearing the informational command, and remains at carry guidon. On the preparatory command, the element leader of the right (left) element turns his or her head 45-degrees to the right (left) and commands Forward. At the same time, the remaining element leaders turn their heads 45-degrees to the right (left) and command STAND FAST. Their heads are kept to the right (left) until they step off. On the command MARCH, the extreme right (left) element steps off. The element leader of each remaining element commands “Forward, MARCH” as the last Airman in each element passes, ensuring the leader’s element is in step with the preceding element. All elements then incline to the right (left), following the leading elements in successive order.
- 
-| **Column of Files, Column Half Right (Left):** In conjunction with forming single files, column movements may be executed at the same time. The command is Column of Files From the Right (Left), Column Right (Left). On the informational command, the guide executing a face in marching takes a position in front of the file that will move first. On the preparatory command, the element leader of the right (left) element commands Column Right (Left). The remaining element leaders command STAND FAST. On the command MARCH, the element leader and guide execute a face in marching to the right (left), and the element leader continues marching in the new direction with 24-inch steps. The guide marches to a position ahead of the element leader, then pivots 45 degrees to a position 40 inches in front of the element leader. The remaining individuals in the base file march forward on the command of execution, pivot in approximately the same location as their element leader, and maintain a 40-inch distance. The element leaders of the remaining elements command Column Right (Left), MARCH, at which time all Airmen perform the movement in the same manner as the base element. The element leaders follow the leading elements in successive order. All members of the formation continue taking 12” steps until receiving the command Forward MARCH.
- 
-| **Column of Twos (Fours) From a Single File (Multiple Elements):** To form a column of two or more files when in a single file of more than one element, the command is Column of Twos (Fours) to the Left (Right). On the informational command, the leading element leader turns his or her head 45 degrees to the right (left) and commands STAND FAST. At the same time, the remaining element leaders turn their heads 45-degrees to the right (left) and command Column Half Left (Right). On the command MARCH, the leading element stands fast, and the element leader returns his or her head back to the front. The remaining element leaders turn their heads back to the front and step off, executing a column half left (right) simultaneously, and incline and form to the left (right) of the leading element. The remaining members of each element march to the approximate pivot point established by the element leaders and perform the movement in the same manner as the element leaders. Each element is halted by its element leader turning his or her head 45-degrees to the left (right) and commanding the element to halt so his or her element is abreast of, and even with, the leading element.
+    | To form a single file when in a column of two or more elements, the command is “Column of Files from the Right (Left), Forward, MARCH”. If the movement is from the left, the guide takes a position in front of the file that will move first upon hearing the informational command, and remains at carry guidon. On the preparatory command, the element leader of the right (left) element turns his or her head 45-degrees to the right (left) and commands Forward. At the same time, the remaining element leaders turn their heads 45-degrees to the right (left) and command STAND FAST. Their heads are kept to the right (left) until they step off. On the command MARCH, the extreme right (left) element steps off. The element leader of each remaining element commands “Forward, MARCH” as the last Airman in each element passes, ensuring the leader’s element is in step with the preceding element. All elements then incline to the right (left), following the leading elements in successive order.
+    
+    | **Column of Files, Column Half Right (Left):** In conjunction with forming single files, column movements may be executed at the same time. The command is Column of Files From the Right (Left), Column Right (Left). On the informational command, the guide executing a face in marching takes a position in front of the file that will move first. On the preparatory command, the element leader of the right (left) element commands Column Right (Left). The remaining element leaders command STAND FAST. On the command MARCH, the element leader and guide execute a face in marching to the right (left), and the element leader continues marching in the new direction with 24-inch steps. The guide marches to a position ahead of the element leader, then pivots 45 degrees to a position 40 inches in front of the element leader. The remaining individuals in the base file march forward on the command of execution, pivot in approximately the same location as their element leader, and maintain a 40-inch distance. The element leaders of the remaining elements command Column Right (Left), MARCH, at which time all Airmen perform the movement in the same manner as the base element. The element leaders follow the leading elements in successive order. All members of the formation continue taking 12” steps until receiving the command Forward MARCH.
+    
+    | **Column of Twos (Fours) From a Single File (Multiple Elements):** To form a column of two or more files when in a single file of more than one element, the command is Column of Twos (Fours) to the Left (Right). On the informational command, the leading element leader turns his or her head 45 degrees to the right (left) and commands STAND FAST. At the same time, the remaining element leaders turn their heads 45-degrees to the right (left) and command Column Half Left (Right). On the command MARCH, the leading element stands fast, and the element leader returns his or her head back to the front. The remaining element leaders turn their heads back to the front and step off, executing a column half left (right) simultaneously, and incline and form to the left (right) of the leading element. The remaining members of each element march to the approximate pivot point established by the element leaders and perform the movement in the same manner as the element leaders. Each element is halted by its element leader turning his or her head 45-degrees to the left (right) and commanding the element to halt so his or her element is abreast of, and even with, the leading element.
 
-| **Counter March**
+    | **Counter March**
 
-| This is not a precise movement, but it is used to permit flexibility in the movement of units where space is limited. The command is “Counter, MARCH”. The following is executed on the command MARCH:
+    | This is not a precise movement, but it is used to permit flexibility in the movement of units where space is limited. The command is “Counter, MARCH”. The following is executed on the command MARCH:
 
-| The first element leader takes four 24-inch steps forward and executes a 90-degree pivot to the right (suspending arm swing during the pivot), marches across the front of the flight just beyond the fourth element, and executes another 90-degree pivot to the right (again suspending arm swing). Each succeeding member marches to the approximate pivot points established by the person in front of him or her and performs the same procedures as the first element leader.
+    | The first element leader takes four 24-inch steps forward and executes a 90-degree pivot to the right (suspending arm swing during the pivot), marches across the front of the flight just beyond the fourth element, and executes another 90-degree pivot to the right (again suspending arm swing). Each succeeding member marches to the approximate pivot points established by the person in front of him or her and performs the same procedures as the first element leader.
 
-| The second element leader takes two 24-inch steps forward and executes a 90-degree pivot to the right with suspended arm swing. He or she continues to march and executes another 90-degree pivot to the right (with suspended arm swing) between the third and fourth elements. Each succeeding member marches to the pivot points established by the person in front of him or her and performs the same procedures as the second element leader.
+    | The second element leader takes two 24-inch steps forward and executes a 90-degree pivot to the right with suspended arm swing. He or she continues to march and executes another 90-degree pivot to the right (with suspended arm swing) between the third and fourth elements. Each succeeding member marches to the pivot points established by the person in front of him or her and performs the same procedures as the second element leader.
 
-| The third element leader takes one 24-inch step forward, executes two 90-degree pivots to the left (with suspended arm swing during the pivots), and marches between the remainder of the third and second elements. Each succeeding member marches to the approximate pivot points established by the person in front of him or her and performs the same procedures as the third element leader.
+    | The third element leader takes one 24-inch step forward, executes two 90-degree pivots to the left (with suspended arm swing during the pivots), and marches between the remainder of the third and second elements. Each succeeding member marches to the approximate pivot points established by the person in front of him or her and performs the same procedures as the third element leader.
 
-| The fourth element leader takes three 24-inch steps forward and executes a 90-degree pivot to the left with suspended arm swing. The element leader then marches across the front of the flight and executes another 90-degree pivot to the left between the first and second elements, suspending arm swing during the pivot. Each succeeding member marches to the approximate pivot points established by the person in front of him or her and performs the same procedures as the fourth element leader.
+    | The fourth element leader takes three 24-inch steps forward and executes a 90-degree pivot to the left with suspended arm swing. The element leader then marches across the front of the flight and executes another 90-degree pivot to the left between the first and second elements, suspending arm swing during the pivot. Each succeeding member marches to the approximate pivot points established by the person in front of him or her and performs the same procedures as the fourth element leader.
 
-| The guide performs this movement in approximately the same manner as the fourth element leader, staying in front of the fourth element leader in the most practical manner.
+    | The guide performs this movement in approximately the same manner as the fourth element leader, staying in front of the fourth element leader in the most practical manner.
 
-| As the fourth element leader marches past the last Airman in the fourth element, the fourth element leader and the individuals of the file begin marching in a half step. The remaining element leaders begin the half step once they pass the last individual in each file. After the element leaders pass the last individual in each file, they incline, as necessary, to obtain close or normal interval; then they begin the half step. Forward MARCH will be given once all Airmen have completed the movement and proper dress, cover, interval, and distance have been established.
+    | As the fourth element leader marches past the last Airman in the fourth element, the fourth element leader and the individuals of the file begin marching in a half step. The remaining element leaders begin the half step once they pass the last individual in each file. After the element leaders pass the last individual in each file, they incline, as necessary, to obtain close or normal interval; then they begin the half step. Forward MARCH will be given once all Airmen have completed the movement and proper dress, cover, interval, and distance have been established.
 
-| **Halted:** This movement is performed in the same manner as if marching, but with the following exceptions: prior to executing the movement, the first element leader takes five paces forward, the second element leader takes three paces forward, the third element leader takes two paces forward, and the fourth element leader takes four paces forward.
+    | **Halted:** This movement is performed in the same manner as if marching, but with the following exceptions: prior to executing the movement, the first element leader takes five paces forward, the second element leader takes three paces forward, the third element leader takes two paces forward, and the fourth element leader takes four paces forward.
 
 .. 
     Formations
