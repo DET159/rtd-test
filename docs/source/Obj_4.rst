@@ -77,32 +77,48 @@ Per AFI 34-1201 *Protocol:* |br|
 
 When carried in a procession with another flag or flags, the United States Flag should be either on the marching right; that is, to the flag’s own right (to the far right of all others), or, if there is a line of other flags, in front of the centerline. The United States Flag when carried by military members is never at half-staff.
 
-.. figure:: Obj_4_1.png
+.. figure:: images/Obj_4_1.png
     :align: center
 
     United States Flag Carried in Procession with Another Flag
 
-The United States Flag, when it is displayed with another flag against a wall from crossed staffs, should be on the right, the flag’s own right (observer’s left), and its staff should be in front of the staff of the other flag. ::
+The United States Flag, when it is displayed with another flag against a wall from crossed staffs, should be on the right, the flag’s own right (observer’s left), and its staff should be in front of the staff of the other flag.
 
-    Insert Image 2 here
+.. figure:: images/Obj_4_2.png
+    :align: center
 
-When a number of flags are grouped and displayed from staffs radiating from a central point, and no foreign flags are in the display, the United States Flag will be in the center and at the highest point of the group. ::
+    United States Flag Displayed and Another Flag Displayed with Crossed Staffs
 
-    Insert Image 3 here
+When a number of flags are grouped and displayed from staffs radiating from a central point, and no foreign flags are in the display, the United States Flag will be in the center and at the highest point of the group.
 
-When a number of flags are displayed from staffs set in a line, all staffs will be of the same height and have the same style finials, or decorative devices, at the top of the flagpoles (Service specific guidance may differ in a joint environment). The United States Flag will be at the right, which is to the left of an observer facing the display. However, if no foreign national flags are involved in the display, the United States Flag may be placed at the center of the line providing it is displayed at a higher level than the other flags in the display ::
+.. figure:: images/Obj_4_3.png
+    :align: center
 
-    Insert Image 4 here
+    United States Flag Displayed with Other Flags Radiating from a Central Point
 
-    Insert Image 5 here
+When a number of flags are displayed from staffs set in a line, all staffs will be of the same height and have the same style finials, or decorative devices, at the top of the flagpoles (Service specific guidance may differ in a joint environment). The United States Flag will be at the right, which is to the left of an observer facing the display. However, if no foreign national flags are involved in the display, the United States Flag may be placed at the center of the line providing it is displayed at a higher level than the other flags in the display
+.. figure:: images/Obj_4_4.png
+    :align: center
+
+    United States Flag Displayed in a Line with Other Flags at Equal Height
+
+
+.. figure:: images/Obj_4_5.png
+    :align: center
+
+    United States Flag Displayed in a Line with Other Flags at Lower Level
 
 When flags of states, cities, localities, or pennants of societies are flown on the same halyard (rope for raising or lowering) with the United States Flag, the United States Flag should always be at the peak. When the flags are flown from adjacent staffs, the United States Flag should be hoisted first and lowered last. No flag or pennant may be placed (flown) above the United States Flag, except during church services conducted by naval chaplains at sea, when the church pennant may be flown above the flag during church services for the personnel of the Navy. When the United States Flag is flown at half-staff for an official observance, foreign national flags may be above the United States Flag. |br|
  
 When flags of two or more nations are displayed, they are to be flown from separate staffs of the same height. The flags should be of equal size. International usage prescribes the display of the flag of one nation equal to that of another nation in time of peace. Air Force commanders obtain instructions on the use and display of flags in foreign countries from the office of the United States Defense Attaché located in the United States Embassy. The Defense Attaché or senior Air Force officer in the foreign country concerned formulates standardized instructions in keeping with existing treaties and arrangements or practices otherwise agreeable to the host country. Inquiries relating to display of flags in foreign countries may be directed to the Secretary of the Air Force, International Affairs Division, SAF/IA. |br|
 
-When used on a speaker’s platform, the flag, if displayed flat, should be displayed above and behind the speaker. When displayed from a staff in a church or public auditorium, the United States Flag should hold the position of superior prominence and in the position of honor at the clergyman’s or speaker’s right as he faces the audience. Any other flag so displayed should be placed on the left of the clergyman or speaker or to the right of the audience. The flag should always be positioned at the same level or above as the clergyman or speaker, never at a lower floor level. When the flag is not on stage but placed on the floor in front of the stage, the flag is to the right of the audience. ::
+When used on a speaker’s platform, the flag, if displayed flat, should be displayed above and behind the speaker. When displayed from a staff in a church or public auditorium, the United States Flag should hold the position of superior prominence and in the position of honor at the clergyman’s or speaker’s right as he faces the audience. Any other flag so displayed should be placed on the left of the clergyman or speaker or to the right of the audience. The flag should always be positioned at the same level or above as the clergyman or speaker, never at a lower floor level. When the flag is not on stage but placed on the floor in front of the stage, the flag is to the right of the audience.
 
-    Insert Image 6 here
+.. figure:: images/Obj_4_6.png
+    :align: center
+
+    United States Flag on Stage with Speaker
+
 
 When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer's left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. This includes aircraft hangars. It is permitted to have United States Flag/color team display for ceremonial events in front of and in addition to a large permanently affixed United States Flag displayed in a building or hangar. |br|
  
@@ -143,11 +159,10 @@ Flags of other nations are flown or displayed in equal size and on poles of equa
 
 Folding of the Flag
 ------------
-Per AFI 34-1201 *Protocol:*::
+Per AFI 34-1201 *Protocol:*
 
-    Insert Image 7 here
-
-::
+.. image:: images/Obj_4_7.png
+    :align: center
 
 Reveille
 ------------
