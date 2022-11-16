@@ -105,7 +105,8 @@ Intermediate Flight Drill
 
 | The guide performs the pivots and steps exactly as the element leader to which they are affixed. Following completion of the pivots, the guide continues in a 24-inch step until he or she is ahead of the fourth element leader. The guide pivots 45 degrees to a position in front of the fourth element leader; then he or she pivots 45 degrees again toward the front and begins half stepping.
 
-| Once the entire formation has changed direction and dress, cover, interval, and distance are reestablished, Forward March will be called to resume normal marching. ::
+| Once the entire formation has changed direction and dress, cover, interval, and distance are reestablished, Forward March will be called to resume normal marching. 
+::
 
     Insert Image 3 here
 
@@ -373,7 +374,7 @@ Building Entry/Departure
 -------------------------
 
 :: 
-    
+
     Insert Video 9 here
 
 | Entrance and departure procedures are necessary in order to promote good order and discipline among cadets while entering or exiting any permanent structure, including academic buildings, dormitories, etc. These procedures apply to squadron, flight, and detail formations. If a door becomes propped in the open position, the last cadet entering will close it.
