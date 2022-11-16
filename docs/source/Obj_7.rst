@@ -150,12 +150,19 @@ Intermediate Flight Drill
 
 | **Transfer of Command** 
 
-::
+.. raw:: html
 
-    Insert Video 1 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/fh6mMHWNvF8" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
 
-    Insert Video 2 here
+.. raw:: html
 
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/rvSUIOhBIfQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
 | Note for this example *“Cadet A”* will be the starting FLT/CC, and *“Cadet B”* will be the one replacing them.
 
 #. Firstly, the FLT/CC, *Cadet A*, will command **“Cadet B, front and center”.** This should be monotone and quick, no change in pitch/sing song inflection.
@@ -204,12 +211,19 @@ Advanced Flight Drill
 Formations
 --------------------
 
-:: 
+.. raw:: html
 
-    Insert Video 3 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/rcltbZuYVMk" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
+.. raw:: html
 
-    Insert Video 4 here
- 
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/CuYHdxN7eeg" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
+
 **Detail:**
 
 * Formation of two to four cadets. 
@@ -248,9 +262,12 @@ Positions / Roles Within the Formation
 Detail Marching
 -----------------------
 
-:: 
+.. raw:: html
 
-    Insert Video 5 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/hn58vdFFoK4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
 
 * Detail marching procedures must be used when 2 to 4 cadets are transiting. 
 * In details of 2, the detail commander marches on the right.
@@ -304,11 +321,18 @@ Guidon Procedures
 Open Rank Inspections (ORIs)
 -----------------------------
 
-:: 
+.. raw:: html
 
-    Insert Video 6 here
-    
-    Insert Video 7 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/AosCLOdpZrY" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+|
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/bycyU430h8Y" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+|
 
 Open ranks inspections focus on military bearing and personal appearance. Any cadet who receives a total of four or more discrepancies during a single open ranks inspection will be counseled appropriately.
 
@@ -345,9 +369,12 @@ Open ranks inspections focus on military bearing and personal appearance. Any ca
 Road Guard Procedures
 ------------------------
 
-:: 
-    
-    Insert Video 8 here
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/J79HrD85YBQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+|
 
 * Road guards will wear a fluorescent/reflective vest during all hours of the day while performing this duty and will carry a flashlight during hours of darkness.
 * Each flight will use their own road guards and will not “piggyback” on other flights (for example: March more than one unit across the street without allowing traffic to proceed between them).
@@ -373,9 +400,12 @@ Road Guard Procedures
 Building Entry/Departure
 -------------------------
 
-:: 
+.. raw:: html
 
-    Insert Video 9 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/XBZf8GJ1YVk" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+|
 
 | Entrance and departure procedures are necessary in order to promote good order and discipline among cadets while entering or exiting any permanent structure, including academic buildings, dormitories, etc. These procedures apply to squadron, flight, and detail formations. If a door becomes propped in the open position, the last cadet entering will close it.
 
