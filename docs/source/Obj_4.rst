@@ -10,10 +10,15 @@ Saluting
         <iframe src="https://www.youtube.com/embed/SWk5rUhFvSA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
 
-:: 
+|
+|
+|
 
-    Insert Video 2 here
+.. raw:: html
 
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/1Xf-hHfX4as" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
 The salute is one of the oldest military traditions. It is a courtesy exchanged between members of the armed forces as both a greeting and a symbol of mutual respect. Cadets adhere to DAFPAM 34-1203, Drill and Ceremonies, para 3.6 Exchange of Salutes. The uniform hat is worn and salutes are rendered in all outdoor areas, unless specifically indicated otherwise. Although inappropriate at certain times, it is never incorrect to salute a senior officer outdoors as a courtesy and a greeting. Do not salute indoors unless formally reporting in to a staff member's office or upon receiving an award at an awards ceremony. Do not salute when reporting to enlisted staff members.
 
@@ -30,11 +35,15 @@ The salute is one of the oldest military traditions. It is a courtesy exchanged 
 Reporting In/Out
 -----------
 
-:: 
+.. raw:: html
 
-    Insert Video 3 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/qJQ1JKDemmI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
-**Single Cadet:**
+
+| 
+| **Single Cadet:**
 
 #. Center on the door or cubicle entrance and knock once loud enough to be heard in an average size room. (Do not knock on the door or cubicle wall if a conversation is taking place in the office). |br|
 
@@ -140,9 +149,11 @@ Per AFI 34-1201 *Protocol:*::
 Reveille
 ------------
 
-:: 
+.. raw:: html
 
-    Insert Video 4 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/qKtWSDYwlFE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
 #. The Detail Commander will call **Standby, Detail Fall In**
 
@@ -199,9 +210,12 @@ Reveille
 Retreat
 ----------
 
-::
+.. raw:: html
 
-    Insert Video 5 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/qKtWSDYwlFE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 
 #. The Detail Commander will call **Standby, Detail Fall In**
 
