@@ -17,10 +17,11 @@ OBJECTIVE 8: Effective Followership, Leadership, and Teamwork Skills
 
 | Cadets should be able to apply all aspects of effective followership, evaluate the followership of team members using the AFROTC Followership Evaluation Form, and foster continued skills growth in subordinates.
 
-::
+.. image:: images/Obj_8_1.png
+    :align: center
 
-    Insert Attachement 1
-
+.. image:: images/Obj_8_2.png
+    :align: center
 
 **Demonstrate Effective Team Leadership**
 
@@ -38,9 +39,11 @@ OBJECTIVE 8: Effective Followership, Leadership, and Teamwork Skills
 
 | Cadets should be able to apply all aspects of leadership skills, effectively lead teams, evaluate the performance of team leaders using the AFROTC Field Leadership Evaluation form, and foster continued skills growth in subordinates.
 
-::
+.. image:: images/Obj_8_3.png
+    :align: center
 
-    Insert Attachment 2
+.. image:: images/Obj_8_4.png
+    :align: center
 
 **Demonstrate Effective Group Leadership as the POC-in-Charge**
 
@@ -54,9 +57,11 @@ OBJECTIVE 8: Effective Followership, Leadership, and Teamwork Skills
 
 | SCL cadets should be highly competent, proven project managers and leaders, and be able to effectively evaluate the performance of subordinate POC using the POC-In-Charge Evaluation Form.
 
-::
+.. image:: images/Obj_8_5.png
+    :align: center
 
-    Insert Attachment 3
+.. image:: images/Obj_8_6.png
+    :align: center
 
 **Demonstrate the Principles of an Effective Debrief**
 
