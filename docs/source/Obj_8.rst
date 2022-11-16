@@ -1,7 +1,8 @@
 OBJECTIVE 8: Effective Followership, Leadership, and Teamwork Skills
 ======================
 
-**Demonstrate Effective Followership**
+Demonstrate Effective Followership
+--------------------------------------
 
 | This objective can be accomplished through mission scenarios, group/team leadership problems, or assigned special projects. The Followership Evaluation Form found on the next page can be used for self-evaluation of followership skills; the form is most beneficial for use following a mission scenario or GLP.
 
@@ -23,7 +24,9 @@ OBJECTIVE 8: Effective Followership, Leadership, and Teamwork Skills
 .. image:: images/Obj_8_2.png
     :align: center
 
-**Demonstrate Effective Team Leadership**
+
+Demonstrate Effective Team Leadership
+--------------------------------------
 
 | This objective can be accomplished through mission scenarios, group/team leadership problems, or assigned special projects. The Field Training Leadership Evaluation Form found on the next page is used at FT and can be used in FTP.
  
@@ -45,7 +48,8 @@ OBJECTIVE 8: Effective Followership, Leadership, and Teamwork Skills
 .. image:: images/Obj_8_4.png
     :align: center
 
-**Demonstrate Effective Group Leadership as the POC-in-Charge**
+Demonstrate Effective Group Leadership as the POC-in-Charge
+--------------------------------------
 
 | This objective seeks to assess the group leadership skills of project officers in charge of leading, planning, and executing large scale events such as Leadership Laboratory, Physical Training, or special events.
  
@@ -63,7 +67,8 @@ OBJECTIVE 8: Effective Followership, Leadership, and Teamwork Skills
 .. image:: images/Obj_8_6.png
     :align: center
 
-**Demonstrate the Principles of an Effective Debrief**
+Demonstrate the Principles of an Effective Debrief
+--------------------------------------
 
 | This objective seeks to instill the concept of mission debrief into all AFROTC training activities with a goal of building a culture of learning through shared experience. At a minimum, FTP cadets must be able to effectively lead a team debrief in order to obtain the P1 proficiency level.
  
