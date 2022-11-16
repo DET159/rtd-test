@@ -79,7 +79,7 @@ A flight forms in at least two, but not more than four, elements in line formati
 
 **Inverted Column Formation:** (GENERALLY NOT RECOMMENDED). The same command and procedures used to reestablish dress, cover, interval, and distance while in column formation are used in inverted column. The exception to this is the leading individual of the base element does not move and everyone else establishes dress, cover, interval, and distance based on this individual.
 
-.. image:: images/Obj_7_1.png
+.. image:: images/Obj_7_2.png
     :align: center
 
 | **Forward March**
@@ -108,7 +108,7 @@ Intermediate Flight Drill
 
 | Once the entire formation has changed direction and dress, cover, interval, and distance are reestablished, Forward March will be called to resume normal marching. 
 
-.. image:: images/Obj_7_1.png
+.. image:: images/Obj_7_3.png
     :align: center
 
 | **Column Half Right (Left):** The Command, “COLUMN HALF RIGHT (LEFT) MARCH”, is called on the right foot if going right and left foot if going left. Differing from a normal Column Right (Left), all three element leaders turn 45 degrees simultaneously. The first element leader will go to half-step, joined by the second, until all three are in-line with each other. Once they are, they will automatically resume the normal 24-inch step (no forward march is called after the movement is completed).
