@@ -109,7 +109,7 @@ Intermediate Flight Drill
 
     Insert Image 3 here
 
-| **Column Half Right (Left): ** The Command, “COLUMN HALF RIGHT (LEFT) MARCH”, is called on the right foot if going right and left foot if going left. Differing from a normal Column Right (Left), all three element leaders turn 45 degrees simultaneously. The first element leader will go to half-step, joined by the second, until all three are in-line with each other. Once they are, they will automatically resume the normal 24-inch step (no forward march is called after the movement is completed).
+| **Column Half Right (Left):** The Command, “COLUMN HALF RIGHT (LEFT) MARCH”, is called on the right foot if going right and left foot if going left. Differing from a normal Column Right (Left), all three element leaders turn 45 degrees simultaneously. The first element leader will go to half-step, joined by the second, until all three are in-line with each other. Once they are, they will automatically resume the normal 24-inch step (no forward march is called after the movement is completed).
 
 | **Flanking Movements**
 
@@ -147,7 +147,9 @@ Intermediate Flight Drill
 
 | **Marching Other Than at Attention:** The commands below may be given as the heel of either foot strikes the ground as long as both the preparatory command and command of execution are given on the same foot and only from QuickTime. The only command that can be given when marching at other than attention is Incline to the Right (Left). Specific instructions may be given to maintain control of the flight. Example: “Guide, incline 90 degrees to the Right; Guide, incline 45 degrees to the Left”. Otherwise, the flight must be called to attention before other commands may be given
 
-| **Transfer of Command** ::
+| **Transfer of Command** 
+
+::
 
     Insert Video 1 here
 
@@ -160,8 +162,8 @@ Intermediate Flight Drill
 #. *Cadet B* will stand in front of Cadet A at attention, salute, and say **“Cadet A, Cadet B reports as ordered.”**
 #. At this point *Cadet A* will drop their salute, and will be the first to do so. (They are still in command) A will say **“Cadet B, take control of the flight.”**
 #. After a moment both cadets will take a step with arm swings. *Cadet A* will take a step backward with their RIGHT foot, *Cadet B* will take a step forward with their LEFT. **This needs to be in sync! ← Hardest part**
-#. *Cadet A* will now salute *Cadet B* and state the following; **“Cadet B, Cadet A requests permission to fall into the rear of the flight.” **
-#. *Cadet B* will respond with **“Fall into the rear of the flight.” **
+#. *Cadet A* will now salute *Cadet B* and state the following; **“Cadet B, Cadet A requests permission to fall into the rear of the flight.”**
+#. *Cadet B* will respond with **“Fall into the rear of the flight.”**
 #. Once *Cadet B* drops their salute, *Cadet A* will drop theirs, and make their way to the rear of the flight. (Note that *Cadet B* is now in command and drops salute first)
 #. Important Notes:
 
@@ -207,14 +209,14 @@ Formations
 
     Insert Video 4 here
  
-**Detail: **
+**Detail:**
 
 * Formation of two to four cadets. 
 * In details of two, the detail leader marches on the right. 
 * In details with three or four cadets, the cadet in the right rear position will lead the detail. 
 * When in a detail to retrieve a guidon, the cadet on the right will carry it, regardless of their assigned duty for that day.
  
-**Flight: **
+**Flight:**
 
 * Formation of five or more cadets. 
 * This includes a designated flight leader, usually the Cadet Flt/CC. 
@@ -223,22 +225,22 @@ Formations
 Positions / Roles Within the Formation
 -----------------------------
  
-**Guide: **
+**Guide:**
 
 * The guide marches, without a guidon, in front of the highest numbered element leader.
 * Will regulate the direction and rate of marching (front-right corner when in column formation).
  
-**Guidon Bearer: **
+**Guidon Bearer:**
 
 * The guidon bearer marches, with a guidon, in either a detail of two or a flight with six or more cadets (Cadet Flt/CC, four cadets, and a guidon bearer). - They assume the same position as the guide in a formation.
 * The guidon bearer will perform all proper movements in accordance with DAFPAM 34-1203, Chapter 5, Section C.
  
-**Road Guard: **
+**Road Guard:**
 
 * Cadet(s) designated to stop traffic when cadets cross a road or parking lot.
 * Located in the rear of the flight (in front of the Cadet Flt/CD).
  
-**Element Leader: **
+**Element Leader:**
 
 * The leader of the smallest drill unit comprised of at least 3, but usually 8 to 12 individuals, one of whom is designated the element leader.
 
@@ -246,6 +248,7 @@ Detail Marching
 -----------------------
 
 :: 
+
     Insert Video 5 here
 
 * Detail marching procedures must be used when 2 to 4 cadets are transiting. 
@@ -280,7 +283,7 @@ Squadron Marching
 
 | The squadron commander may command “INITIATE ROLLING CADENCE” upon which the first flight commander will give an 8-count cadence, then immediately after the second will do so, and so on. When the last flight commander has done an 8-count the first will begin and the whole process repeats. Before calling another command, the Squadron Commander must end the rolling cadence by commanding “CEASE ROLLING CADENCE”.
 
-| **Dress, Cover, Interval, & Distance (DCID) for squadron marching: **
+| **Dress, Cover, Interval, & Distance (DCID) for squadron marching:**
 
 | Before marching the squadron, the commander will command “Key personnel, POST”. Upon this command, Flt/CC’s will stand in front of the first element leader, in the front left of the flight. The guidon bearer will be to their right. When Flt/CC’s give commands at this position, they will turn their head to the right and give their command. 
 
@@ -301,6 +304,7 @@ Open Rank Inspections (ORIs)
 -----------------------------
 
 :: 
+
     Insert Video 6 here
     
     Insert Video 7 here
@@ -369,6 +373,7 @@ Building Entry/Departure
 -------------------------
 
 :: 
+    
     Insert Video 9 here
 
 | Entrance and departure procedures are necessary in order to promote good order and discipline among cadets while entering or exiting any permanent structure, including academic buildings, dormitories, etc. These procedures apply to squadron, flight, and detail formations. If a door becomes propped in the open position, the last cadet entering will close it.
