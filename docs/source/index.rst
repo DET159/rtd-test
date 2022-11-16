@@ -28,6 +28,9 @@ Contents
    Obj_5
    Obj_6
    Obj_7
+   Obj_8
+   Obj_9
+   Obj_11
    
 
 Lumache has its documentation hosted on Read the Docs.
