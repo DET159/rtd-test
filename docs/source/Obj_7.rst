@@ -198,198 +198,199 @@ Advanced Flight Drill
 
 | **Halted:** This movement is performed in the same manner as if marching, but with the following exceptions: prior to executing the movement, the first element leader takes five paces forward, the second element leader takes three paces forward, the third element leader takes two paces forward, and the fourth element leader takes four paces forward.
 
-Formations
---------------------
+.. 
+    Formations
+    --------------------
 
-:: 
+    :: 
 
-    Insert Video 3 here
+        Insert Video 3 here
 
-    Insert Video 4 here
- 
-**Detail: **
-
-* Formation of two to four cadets. 
-* In details of two, the detail leader marches on the right. 
-* In details with three or four cadets, the cadet in the right rear position will lead the detail. 
-* When in a detail to retrieve a guidon, the cadet on the right will carry it, regardless of their assigned duty for that day.
- 
-**Flight: **
-
-* Formation of five or more cadets. 
-* This includes a designated flight leader, usually the Cadet Flt/CC. 
-* There will be at least two, but no more than four, elements.
-
-Positions / Roles Within the Formation
------------------------------
- 
-**Guide: **
-
-* The guide marches, without a guidon, in front of the highest numbered element leader.
-* Will regulate the direction and rate of marching (front-right corner when in column formation).
- 
-**Guidon Bearer: **
-
-* The guidon bearer marches, with a guidon, in either a detail of two or a flight with six or more cadets (Cadet Flt/CC, four cadets, and a guidon bearer). - They assume the same position as the guide in a formation.
-* The guidon bearer will perform all proper movements in accordance with DAFPAM 34-1203, Chapter 5, Section C.
- 
-**Road Guard: **
-
-* Cadet(s) designated to stop traffic when cadets cross a road or parking lot.
-* Located in the rear of the flight (in front of the Cadet Flt/CD).
- 
-**Element Leader: **
-
-* The leader of the smallest drill unit comprised of at least 3, but usually 8 to 12 individuals, one of whom is designated the element leader.
-
-Detail Marching
------------------------
-
-:: 
-    Insert Video 5 here
-
-* Detail marching procedures must be used when 2 to 4 cadets are transiting. 
-* In details of 2, the detail commander marches on the right.
-* In details with 3 or 4 cadets, the detail is sized placing the taller cadets in the rear of the formation. 
-* In this formation, the cadet in the right rear position is the detail commander.
-* The detail commander will render all greetings, just as he/she would if they were a flight commander.
-* When a detail retrieves a guidon, the cadet on the right (or right front in formations of 3 to 4 cadets) will carry the guidon, regardless of their assigned duty for that day.
-* When on improved surfaces, the detail commander will command **“Detail, FALL IN.” **
-* Once the detail is in the proper formation, the detail commander will give proper commands to move his/her detail from one location to the next as quickly as possible.
-* When on unimproved surfaces, the detail commander will command **“Detail, FALL IN.” **
-* Once the detail is in the proper formation, the detail commander will command **“At ease, MARCH,”** at which time the detail will take one 24-inch step and assume marching at ease. 
-* During at ease march, the only command that may be given is **Incline to the Right (Left)**. 
-* The detail must be at attention to call any other commands.
-
-Squadron Marching
-------------------------
-
-| A Squadron must consist of two or more flights. Flights should form up in line formation, but do not execute marching in line except for small changes in position.
-
-| Flight commanders repeat the preparatory commands of the squadron commander for facings, steps, and marching except when the command “SQUADRON” is given, if so Flt/CC echoes “FLIGHT”.
-
-| When flights are meant to execute a movement in successive order (Ex: a column movement), the commander of the first flight repeats the preparatory command, while the commanders of the other flights command “CONTINUE THE MARCH”. When successive flights get to the approximate position where the command was called, they will command their flight accordingly.
-
-| If the distance between flights is incorrect, the squadron commander will command “CLOSE ON LEADING FLIGHT” upon this command the first flight will go into half step, when the flights behind catch up, their flight commander will command their flight to half step to maintain DCID between flights. Once the spacing is corrected, the squadron commander will call “Forward, MARCH”.
-
-| When giving commands, Flight commanders may include the letter or name of their flight (i.e., “Golf flight, HALT”)
-
-| The squadron commander has autonomy during squadron marching, and may assign positions to others as needed. They may also make corrections to specific flights.
-
-| Proper road guard procedures must be followed. The squadron commander will call road guards out for the first flight, it is up to each following flight to send out their own road guards for themselves.
-
-| The squadron commander may command “INITIATE ROLLING CADENCE” upon which the first flight commander will give an 8-count cadence, then immediately after the second will do so, and so on. When the last flight commander has done an 8-count the first will begin and the whole process repeats. Before calling another command, the Squadron Commander must end the rolling cadence by commanding “CEASE ROLLING CADENCE”.
-
-| **Dress, Cover, Interval, & Distance (DCID) for squadron marching: **
-
-| Before marching the squadron, the commander will command “Key personnel, POST”. Upon this command, Flt/CC’s will stand in front of the first element leader, in the front left of the flight. The guidon bearer will be to their right. When Flt/CC’s give commands at this position, they will turn their head to the right and give their command. 
-
-| Proper distance between flights is measured from the deputy of the flight in front to the guidon bearer of the rear flight. The proper distance is 3 paces between flights.
-
-| The Squadron Commander should be 9 paces away and in the rear two thirds of the flight. Although as stated above they have lots of autonomy if a proper solution is used.
-
-Guidon Procedures
--------------------------
-
-* Each flight of six or more cadets will carry their guidon.
-* Flight guides are responsible for storing the guidon in the appropriate rack when not in use.
-* Guidons will not be placed with the tip of the ornament on the ground or with the pennant wrapped tightly around the staff.
-* If entering a building that does not have a storage rack, cadets will take the guidon inside with them and place it out of the way, leaning into a corner so that it will not fall.
-* When entering a building with a guidon, cadets will announce **“GUIDON”** in order to alert others in the area to the hazard.)
-
-Open Rank Inspections (ORIs)
------------------------------
-
-:: 
-    Insert Video 6 here
+        Insert Video 4 here
     
-    Insert Video 7 here
+    **Detail: **
 
-Open ranks inspections focus on military bearing and personal appearance. Any cadet who receives a total of four or more discrepancies during a single open ranks inspection will be counseled appropriately.
-
-#. Flights being inspected will march to the inspection area, position themselves at the proper location, and stand at parade rest.
-#. The Cadet Flt/CC will be posted six paces to the front of, centered on, and facing away from the flight.
-#. When the inspector approaches, the Cadet Flt/CC will call the flight to attention, salute the inspector, and offer a verbal greeting. The inspector will direct the Cadet Flt/CC to prepare the flight for inspection at which time the Cadet Flt/CC salutes the inspector and does an about face.
-#. The Cadet Flt/CC then gives the command **“Open ranks, March,”** and then immediately walks at a 45-degree angle to position him/herself one pace to the guidon bearer’s right side and then faces down the line.
-#. The Cadet Flt/CC then proceeds to align the flight starting with the First Element and ending with the Third Element
-#. Once the flight is aligned, the Cadet Flt/CC positions him/herself three paces in front of the guidon bearer’s right side, facing down the line. The first element will now be three paces to the left of the Cadet Flt/CC.
-#. The Cadet Flt/CC will command **“Ready front.”**
-#. The Cadet Flt/CC takes one step forward, conducts a right face, and salutes the inspector (who has positioned him/herself immediately in front of the Cadet Flt/CC) and reports, **“Sir (Ma'am), ___ Flight is prepared for inspection.”** The inspector returns the salute and begins to inspect the Cadet Flt/CC.
-#. While the Cadet Flt/CC is being inspected, the Cadet Flt/CD takes one step to the rear, conducts a right face, and marches to a position one pace to the right and one pace to the front of the guide. He/she faces down line and prepares to record the inspection results.
-#. nce finished inspecting the Cadet Flt/CC, the inspector asks the Cadet Flt/CC to accompany him/her on the inspection. Both the Cadet Flt/CC and Cadet Flt/CD will accompany the inspector; the Cadet Flt/CD documents discrepancies on the ORI Discrepancy Roster.
-#. After being inspected, the Cadet Flt/CC executes a left face (down line) and commands, **“Second and third elements, parade rest.”**
-#. The inspector takes the necessary steps forward to inspect the guidon bearer. The Cadet Flt/CD, who is still positioned in front of the guidon bearer, continues to face down the line.
-#. The Cadet Flt/CC executes a half left in marching without arm swing and halts one pace to the right and one pace to the rear of the inspector. (This causes the Cadet Flt/CC to precede the inspector and the Cadet Flt/CD to follow the inspector.) Cadet Flt/CD continues to face the inspector during the inspection, documenting any discrepancies. These positions are maintained throughout the inspection of the front of each respective rank.
-#. After completing the front inspection of each cadet, the inspector looks to the right to signal to the Cadet Flt/CC he/she is ready to move.
-#. When moving from individual to individual during the inspection, the inspector and Cadet Flt/CC simultaneously execute a facing movement to the right in marching and an in- place halt as described in section below. (Cadet Flt/CD faces the inspector and simply takes one step forward for each inspector and Cadet Flt/CC movement).
-#. The movement is executed by pivoting 90 degrees to the right on the ball of the right foot, simultaneously stepping over the right foot with the left foot and placing the left foot parallel to the rank being inspected. Then advance one short step with the right foot, and place the right foot pointed toward the flight. Next bring the left heel into the right heel, and once again reassume the position of attention. The upper portion of the body remains at the position of attention, and the arm swing is suspended throughout when inspecting the front of each rank.
-#. These movements should place the inspector directly in front of the next individual to be inspected, still preceded by the Cadet Flt/CC and followed by the Cadet Flt/CD.
-#. After the inspector has inspected the last individual in the front rank, the Cadet Flt/CC hesitates momentarily and allows the inspector and Cadet Flt/CD to precede him or her as the inspector inspects the rear of the front rank.
-#. During the inspection of the rear of each rank, the Cadet Flt/CD follows the inspector approximately two paces to the rear, halting when the inspector halts. The Cadet Flt/CC will follow approximately two paces behind the Cadet Flt/CD, also halting with the inspector.
-#. After inspecting the rear of each rank, the inspector halts and turns in front of the element leader of the next rank. The Cadet Flt/CD marches past the rear of the inspector and reassumes the position following the inspector while the Cadet Flt/CC will halt and turn in front of the second person in the next rank (the Cadet Flt/CC is once again preceding the inspector). (These procedures are used to inspect the front and rear of subsequent ranks.)
-#. When the inspection party finishes inspecting the first element and before the inspector halts in front of the first person of the second element, the second element leader assumes the position of attention. The element leader turns his or her head approximately 45-degrees down line and commands, **“Second element, Attention.”** 
-#. When the first element leader can see the inspector out of the corner of his or her eye, the element leader turns his or her head down line and commands, **“First element, parade rest”.** This procedure is repeated throughout the remaining elements.
-#. After the last element has been inspected from the rear, with the Cadet Flt/CD and Cadet Flt/CC following the inspector, the inspector will halt and execute an about face.
-#. The Cadet Flt/CD will halt while the Cadet Flt/CC will position him/herself one pace to the right of the Cadet Flt/CD, halt, and record the inspection results of the Cadet Flt/CD.
-#. The inspector inspects the Cadet Flt/CD and commands **“POST”.** The Cadet Flt/CD will return to his/her position in the flight.
-#. The inspector marches off to the right flank (element leaders) of the flight while the Cadet Flt/CC proceeds directly to a position three paces beyond the front rank, halts, faces to the left (down line), and commands, **“Flight, attention.”**
-#. The Cadet Flt/CC then takes one step forward with arm swing and faces to the right. The inspector marches to a position directly in front of the Cadet Flt/CC and gives comments.
-#. After receiving comments, the Cadet Flt/CC will salute and greet the departing official appropriately, **“Good morning (afternoon or evening), Sir (Ma'am)”.** The inspector then executes the appropriate facing movement to depart.
-#. To conclude the activity, the Cadet Flt/CC will command, **“Close ranks, march”** before posting three paces in front of and centered on the flight. The flight will then be ready for the next scheduled activity.
-
-Road Guard Procedures
-------------------------
-
-:: 
+    * Formation of two to four cadets. 
+    * In details of two, the detail leader marches on the right. 
+    * In details with three or four cadets, the cadet in the right rear position will lead the detail. 
+    * When in a detail to retrieve a guidon, the cadet on the right will carry it, regardless of their assigned duty for that day.
     
-    Insert Video 8 here
+    **Flight: **
 
-* Road guards will wear a fluorescent/reflective vest during all hours of the day while performing this duty and will carry a flashlight during hours of darkness.
-* Each flight will use their own road guards and will not “piggyback” on other flights (for example: March more than one unit across the street without allowing traffic to proceed between them).
-* The Cadet Flt/CC will render all courtesies for the flight.
-* If a staff vehicle approaches the flight while crossing an intersection the road guard will not salute (due to safety). The person in charge will march the flight across the street, halt the flight, call in the road guards, and then render courtesies to the staff vehicle. Safety is the priority in this situation.
-* For safety reasons, flights will always be halted six paces from the edge of the crossing.
-* Road guards will wear road guard vests at all times while marching.
-* Road guards will always fall into the rear of the flight.
-* Both squadron and flight marching utilize the same processes listed below.
+    * Formation of five or more cadets. 
+    * This includes a designated flight leader, usually the Cadet Flt/CC. 
+    * There will be at least two, but no more than four, elements.
 
-| **Procedures**
+    Positions / Roles Within the Formation
+    -----------------------------
+    
+    **Guide: **
 
-#. Prior to moving as a flight, the Cadet Flt/CC will command, **“Road guards, don your gear”.**
-#. While approaching an intersection, approximately 10 paces away, the Cadet Flt/CC will command **“Road guards, out.”**
-#. The road guards will run from the rear of the flight, safely move ahead of the flight, and safely proceed into the intersection to stop traffic.
-#. If required, the Cadet Flt/CC can call a specific amount of road guards out of the flight (i.e. **“two road guards, out”** or **“four road guards, out”**).
-#. If vehicles are proceeding through the intersection, the road guard(s) will raise their hand(s) and the Cadet Flt/CC will halt the flight. The Road guards will then allow the vehicle to pass through the intersection and then proceed into the roadway to stop any other traffic while the Cadet Flt/CC marches with the flight through the intersection.
-#. If utilizing squadron marching, when the squadron enters the road way, the rear flight’s road guards will run forward and tap out the front flight’s road guards in time for the first road guards to return to the rear of their flight.
-#. After the flight and Cadet Flt/CC passes through the intersection, the Cadet Flt/CC will command, **“Road Guards, In”** without halting the flight.
-#. At the command of **“Road Guards, In”** the road guards will return to the rear of the flight.
-#. When arriving at the flight’s final destination, the Cadet Flt/CC will give the command **“Road guards, secure your gear.”** Road guards will then stow their gear in preparation for the flight’s next task.
+    * The guide marches, without a guidon, in front of the highest numbered element leader.
+    * Will regulate the direction and rate of marching (front-right corner when in column formation).
+    
+    **Guidon Bearer: **
 
-Building Entry/Departure
--------------------------
+    * The guidon bearer marches, with a guidon, in either a detail of two or a flight with six or more cadets (Cadet Flt/CC, four cadets, and a guidon bearer). - They assume the same position as the guide in a formation.
+    * The guidon bearer will perform all proper movements in accordance with DAFPAM 34-1203, Chapter 5, Section C.
+    
+    **Road Guard: **
 
-:: 
-    Insert Video 9 here
+    * Cadet(s) designated to stop traffic when cadets cross a road or parking lot.
+    * Located in the rear of the flight (in front of the Cadet Flt/CD).
+    
+    **Element Leader: **
 
-| Entrance and departure procedures are necessary in order to promote good order and discipline among cadets while entering or exiting any permanent structure, including academic buildings, dormitories, etc. These procedures apply to squadron, flight, and detail formations. If a door becomes propped in the open position, the last cadet entering will close it.
+    * The leader of the smallest drill unit comprised of at least 3, but usually 8 to 12 individuals, one of whom is designated the element leader.
 
-#. Upon halting the flight and prior to entering the facility, the Cadet Flt/CC will command, **“Guidon bearer, secure the guidon and post the door.”**
-#. If there is no guidon, the Cadet Flt/CC will command **“Guide, post the door.”** The Cadet Flt/CC will then command, **“COLUMN OF FILES FROM THE RIGHT (LEFT), FORWARD.” **
-#. Upon the Cadet Flt/CC’s command of **“FORWARD,”** the element leader of the selected element turns his/her head 45 degrees to the right (left) and echoes the Cadet Flt/CC’s command of “FORWARD.” 
-#. At the same time the remaining element leader(s) turns his/her head 45 degrees to the right (left) and commands, **“STAND FAST.”**  Their heads stay turned until they step off.
-#. After all element leaders have echoed the appropriate command, the Cadet Flt/CC will command, **“MARCH.”**
-#. Upon the Cadet Flt/CC’s command of **"MARCH"** the selected element will step off and enter the facility.
-#. In turn, the element leader of each remaining element will command, **"FORWARD, MARCH"** as the last cadet in the preceding element has passed. 
-#. Giving the command as the left foot strikes the ground will ensure their element is in step with the preceding element. 
-#. All elements will incline in the appropriate direction, following the leading element in successive order.
-#. The Cadet Flt/CC will be the last person from his/her flight to enter the building.
-#. The Cadet Flt/CC will be the first member of the flight to depart the building and will designate the position for forming the flight. 
-#. The flight will exit the building and form up on the guide, in line formation, three elements, facing the Cadet Flt/CC.
+    Detail Marching
+    -----------------------
 
-| **As a Detail**
+    :: 
+        Insert Video 5 here
 
-* When entering as a detail, the cadet in charge will command, “DETAIL HALT," followed by the command of "FALL OUT."
-* When departing as a detail, cadets will exit the building in an orderly manner and form up on the sidewalk. Cadet Flt/CCs will take care to not block traffic into or out of the building. The last cadet in a formation will ensure the facility door is closed.
+    * Detail marching procedures must be used when 2 to 4 cadets are transiting. 
+    * In details of 2, the detail commander marches on the right.
+    * In details with 3 or 4 cadets, the detail is sized placing the taller cadets in the rear of the formation. 
+    * In this formation, the cadet in the right rear position is the detail commander.
+    * The detail commander will render all greetings, just as he/she would if they were a flight commander.
+    * When a detail retrieves a guidon, the cadet on the right (or right front in formations of 3 to 4 cadets) will carry the guidon, regardless of their assigned duty for that day.
+    * When on improved surfaces, the detail commander will command **“Detail, FALL IN.” **
+    * Once the detail is in the proper formation, the detail commander will give proper commands to move his/her detail from one location to the next as quickly as possible.
+    * When on unimproved surfaces, the detail commander will command **“Detail, FALL IN.” **
+    * Once the detail is in the proper formation, the detail commander will command **“At ease, MARCH,”** at which time the detail will take one 24-inch step and assume marching at ease. 
+    * During at ease march, the only command that may be given is **Incline to the Right (Left)**. 
+    * The detail must be at attention to call any other commands.
+
+    Squadron Marching
+    ------------------------
+
+    | A Squadron must consist of two or more flights. Flights should form up in line formation, but do not execute marching in line except for small changes in position.
+
+    | Flight commanders repeat the preparatory commands of the squadron commander for facings, steps, and marching except when the command “SQUADRON” is given, if so Flt/CC echoes “FLIGHT”.
+
+    | When flights are meant to execute a movement in successive order (Ex: a column movement), the commander of the first flight repeats the preparatory command, while the commanders of the other flights command “CONTINUE THE MARCH”. When successive flights get to the approximate position where the command was called, they will command their flight accordingly.
+
+    | If the distance between flights is incorrect, the squadron commander will command “CLOSE ON LEADING FLIGHT” upon this command the first flight will go into half step, when the flights behind catch up, their flight commander will command their flight to half step to maintain DCID between flights. Once the spacing is corrected, the squadron commander will call “Forward, MARCH”.
+
+    | When giving commands, Flight commanders may include the letter or name of their flight (i.e., “Golf flight, HALT”)
+
+    | The squadron commander has autonomy during squadron marching, and may assign positions to others as needed. They may also make corrections to specific flights.
+
+    | Proper road guard procedures must be followed. The squadron commander will call road guards out for the first flight, it is up to each following flight to send out their own road guards for themselves.
+
+    | The squadron commander may command “INITIATE ROLLING CADENCE” upon which the first flight commander will give an 8-count cadence, then immediately after the second will do so, and so on. When the last flight commander has done an 8-count the first will begin and the whole process repeats. Before calling another command, the Squadron Commander must end the rolling cadence by commanding “CEASE ROLLING CADENCE”.
+
+    | **Dress, Cover, Interval, & Distance (DCID) for squadron marching: **
+
+    | Before marching the squadron, the commander will command “Key personnel, POST”. Upon this command, Flt/CC’s will stand in front of the first element leader, in the front left of the flight. The guidon bearer will be to their right. When Flt/CC’s give commands at this position, they will turn their head to the right and give their command. 
+
+    | Proper distance between flights is measured from the deputy of the flight in front to the guidon bearer of the rear flight. The proper distance is 3 paces between flights.
+
+    | The Squadron Commander should be 9 paces away and in the rear two thirds of the flight. Although as stated above they have lots of autonomy if a proper solution is used.
+
+    Guidon Procedures
+    -------------------------
+
+    * Each flight of six or more cadets will carry their guidon.
+    * Flight guides are responsible for storing the guidon in the appropriate rack when not in use.
+    * Guidons will not be placed with the tip of the ornament on the ground or with the pennant wrapped tightly around the staff.
+    * If entering a building that does not have a storage rack, cadets will take the guidon inside with them and place it out of the way, leaning into a corner so that it will not fall.
+    * When entering a building with a guidon, cadets will announce **“GUIDON”** in order to alert others in the area to the hazard.)
+
+    Open Rank Inspections (ORIs)
+    -----------------------------
+
+    :: 
+        Insert Video 6 here
+        
+        Insert Video 7 here
+
+    Open ranks inspections focus on military bearing and personal appearance. Any cadet who receives a total of four or more discrepancies during a single open ranks inspection will be counseled appropriately.
+
+    #. Flights being inspected will march to the inspection area, position themselves at the proper location, and stand at parade rest.
+    #. The Cadet Flt/CC will be posted six paces to the front of, centered on, and facing away from the flight.
+    #. When the inspector approaches, the Cadet Flt/CC will call the flight to attention, salute the inspector, and offer a verbal greeting. The inspector will direct the Cadet Flt/CC to prepare the flight for inspection at which time the Cadet Flt/CC salutes the inspector and does an about face.
+    #. The Cadet Flt/CC then gives the command **“Open ranks, March,”** and then immediately walks at a 45-degree angle to position him/herself one pace to the guidon bearer’s right side and then faces down the line.
+    #. The Cadet Flt/CC then proceeds to align the flight starting with the First Element and ending with the Third Element
+    #. Once the flight is aligned, the Cadet Flt/CC positions him/herself three paces in front of the guidon bearer’s right side, facing down the line. The first element will now be three paces to the left of the Cadet Flt/CC.
+    #. The Cadet Flt/CC will command **“Ready front.”**
+    #. The Cadet Flt/CC takes one step forward, conducts a right face, and salutes the inspector (who has positioned him/herself immediately in front of the Cadet Flt/CC) and reports, **“Sir (Ma'am), ___ Flight is prepared for inspection.”** The inspector returns the salute and begins to inspect the Cadet Flt/CC.
+    #. While the Cadet Flt/CC is being inspected, the Cadet Flt/CD takes one step to the rear, conducts a right face, and marches to a position one pace to the right and one pace to the front of the guide. He/she faces down line and prepares to record the inspection results.
+    #. nce finished inspecting the Cadet Flt/CC, the inspector asks the Cadet Flt/CC to accompany him/her on the inspection. Both the Cadet Flt/CC and Cadet Flt/CD will accompany the inspector; the Cadet Flt/CD documents discrepancies on the ORI Discrepancy Roster.
+    #. After being inspected, the Cadet Flt/CC executes a left face (down line) and commands, **“Second and third elements, parade rest.”**
+    #. The inspector takes the necessary steps forward to inspect the guidon bearer. The Cadet Flt/CD, who is still positioned in front of the guidon bearer, continues to face down the line.
+    #. The Cadet Flt/CC executes a half left in marching without arm swing and halts one pace to the right and one pace to the rear of the inspector. (This causes the Cadet Flt/CC to precede the inspector and the Cadet Flt/CD to follow the inspector.) Cadet Flt/CD continues to face the inspector during the inspection, documenting any discrepancies. These positions are maintained throughout the inspection of the front of each respective rank.
+    #. After completing the front inspection of each cadet, the inspector looks to the right to signal to the Cadet Flt/CC he/she is ready to move.
+    #. When moving from individual to individual during the inspection, the inspector and Cadet Flt/CC simultaneously execute a facing movement to the right in marching and an in- place halt as described in section below. (Cadet Flt/CD faces the inspector and simply takes one step forward for each inspector and Cadet Flt/CC movement).
+    #. The movement is executed by pivoting 90 degrees to the right on the ball of the right foot, simultaneously stepping over the right foot with the left foot and placing the left foot parallel to the rank being inspected. Then advance one short step with the right foot, and place the right foot pointed toward the flight. Next bring the left heel into the right heel, and once again reassume the position of attention. The upper portion of the body remains at the position of attention, and the arm swing is suspended throughout when inspecting the front of each rank.
+    #. These movements should place the inspector directly in front of the next individual to be inspected, still preceded by the Cadet Flt/CC and followed by the Cadet Flt/CD.
+    #. After the inspector has inspected the last individual in the front rank, the Cadet Flt/CC hesitates momentarily and allows the inspector and Cadet Flt/CD to precede him or her as the inspector inspects the rear of the front rank.
+    #. During the inspection of the rear of each rank, the Cadet Flt/CD follows the inspector approximately two paces to the rear, halting when the inspector halts. The Cadet Flt/CC will follow approximately two paces behind the Cadet Flt/CD, also halting with the inspector.
+    #. After inspecting the rear of each rank, the inspector halts and turns in front of the element leader of the next rank. The Cadet Flt/CD marches past the rear of the inspector and reassumes the position following the inspector while the Cadet Flt/CC will halt and turn in front of the second person in the next rank (the Cadet Flt/CC is once again preceding the inspector). (These procedures are used to inspect the front and rear of subsequent ranks.)
+    #. When the inspection party finishes inspecting the first element and before the inspector halts in front of the first person of the second element, the second element leader assumes the position of attention. The element leader turns his or her head approximately 45-degrees down line and commands, **“Second element, Attention.”** 
+    #. When the first element leader can see the inspector out of the corner of his or her eye, the element leader turns his or her head down line and commands, **“First element, parade rest”.** This procedure is repeated throughout the remaining elements.
+    #. After the last element has been inspected from the rear, with the Cadet Flt/CD and Cadet Flt/CC following the inspector, the inspector will halt and execute an about face.
+    #. The Cadet Flt/CD will halt while the Cadet Flt/CC will position him/herself one pace to the right of the Cadet Flt/CD, halt, and record the inspection results of the Cadet Flt/CD.
+    #. The inspector inspects the Cadet Flt/CD and commands **“POST”.** The Cadet Flt/CD will return to his/her position in the flight.
+    #. The inspector marches off to the right flank (element leaders) of the flight while the Cadet Flt/CC proceeds directly to a position three paces beyond the front rank, halts, faces to the left (down line), and commands, **“Flight, attention.”**
+    #. The Cadet Flt/CC then takes one step forward with arm swing and faces to the right. The inspector marches to a position directly in front of the Cadet Flt/CC and gives comments.
+    #. After receiving comments, the Cadet Flt/CC will salute and greet the departing official appropriately, **“Good morning (afternoon or evening), Sir (Ma'am)”.** The inspector then executes the appropriate facing movement to depart.
+    #. To conclude the activity, the Cadet Flt/CC will command, **“Close ranks, march”** before posting three paces in front of and centered on the flight. The flight will then be ready for the next scheduled activity.
+
+    Road Guard Procedures
+    ------------------------
+
+    :: 
+        
+        Insert Video 8 here
+
+    * Road guards will wear a fluorescent/reflective vest during all hours of the day while performing this duty and will carry a flashlight during hours of darkness.
+    * Each flight will use their own road guards and will not “piggyback” on other flights (for example: March more than one unit across the street without allowing traffic to proceed between them).
+    * The Cadet Flt/CC will render all courtesies for the flight.
+    * If a staff vehicle approaches the flight while crossing an intersection the road guard will not salute (due to safety). The person in charge will march the flight across the street, halt the flight, call in the road guards, and then render courtesies to the staff vehicle. Safety is the priority in this situation.
+    * For safety reasons, flights will always be halted six paces from the edge of the crossing.
+    * Road guards will wear road guard vests at all times while marching.
+    * Road guards will always fall into the rear of the flight.
+    * Both squadron and flight marching utilize the same processes listed below.
+
+    | **Procedures**
+
+    #. Prior to moving as a flight, the Cadet Flt/CC will command, **“Road guards, don your gear”.**
+    #. While approaching an intersection, approximately 10 paces away, the Cadet Flt/CC will command **“Road guards, out.”**
+    #. The road guards will run from the rear of the flight, safely move ahead of the flight, and safely proceed into the intersection to stop traffic.
+    #. If required, the Cadet Flt/CC can call a specific amount of road guards out of the flight (i.e. **“two road guards, out”** or **“four road guards, out”**).
+    #. If vehicles are proceeding through the intersection, the road guard(s) will raise their hand(s) and the Cadet Flt/CC will halt the flight. The Road guards will then allow the vehicle to pass through the intersection and then proceed into the roadway to stop any other traffic while the Cadet Flt/CC marches with the flight through the intersection.
+    #. If utilizing squadron marching, when the squadron enters the road way, the rear flight’s road guards will run forward and tap out the front flight’s road guards in time for the first road guards to return to the rear of their flight.
+    #. After the flight and Cadet Flt/CC passes through the intersection, the Cadet Flt/CC will command, **“Road Guards, In”** without halting the flight.
+    #. At the command of **“Road Guards, In”** the road guards will return to the rear of the flight.
+    #. When arriving at the flight’s final destination, the Cadet Flt/CC will give the command **“Road guards, secure your gear.”** Road guards will then stow their gear in preparation for the flight’s next task.
+
+    Building Entry/Departure
+    -------------------------
+
+    :: 
+        Insert Video 9 here
+
+    | Entrance and departure procedures are necessary in order to promote good order and discipline among cadets while entering or exiting any permanent structure, including academic buildings, dormitories, etc. These procedures apply to squadron, flight, and detail formations. If a door becomes propped in the open position, the last cadet entering will close it.
+
+    #. Upon halting the flight and prior to entering the facility, the Cadet Flt/CC will command, **“Guidon bearer, secure the guidon and post the door.”**
+    #. If there is no guidon, the Cadet Flt/CC will command **“Guide, post the door.”** The Cadet Flt/CC will then command, **“COLUMN OF FILES FROM THE RIGHT (LEFT), FORWARD.” **
+    #. Upon the Cadet Flt/CC’s command of **“FORWARD,”** the element leader of the selected element turns his/her head 45 degrees to the right (left) and echoes the Cadet Flt/CC’s command of “FORWARD.” 
+    #. At the same time the remaining element leader(s) turns his/her head 45 degrees to the right (left) and commands, **“STAND FAST.”**  Their heads stay turned until they step off.
+    #. After all element leaders have echoed the appropriate command, the Cadet Flt/CC will command, **“MARCH.”**
+    #. Upon the Cadet Flt/CC’s command of **"MARCH"** the selected element will step off and enter the facility.
+    #. In turn, the element leader of each remaining element will command, **"FORWARD, MARCH"** as the last cadet in the preceding element has passed. 
+    #. Giving the command as the left foot strikes the ground will ensure their element is in step with the preceding element. 
+    #. All elements will incline in the appropriate direction, following the leading element in successive order.
+    #. The Cadet Flt/CC will be the last person from his/her flight to enter the building.
+    #. The Cadet Flt/CC will be the first member of the flight to depart the building and will designate the position for forming the flight. 
+    #. The flight will exit the building and form up on the guide, in line formation, three elements, facing the Cadet Flt/CC.
+
+    | **As a Detail**
+
+    * When entering as a detail, the cadet in charge will command, “DETAIL HALT," followed by the command of "FALL OUT."
+    * When departing as a detail, cadets will exit the building in an orderly manner and form up on the sidewalk. Cadet Flt/CCs will take care to not block traffic into or out of the building. The last cadet in a formation will ensure the facility door is closed.
 
 
 
