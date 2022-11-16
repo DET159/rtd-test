@@ -258,9 +258,9 @@ Detail Marching
 * In this formation, the cadet in the right rear position is the detail commander.
 * The detail commander will render all greetings, just as he/she would if they were a flight commander.
 * When a detail retrieves a guidon, the cadet on the right (or right front in formations of 3 to 4 cadets) will carry the guidon, regardless of their assigned duty for that day.
-* When on improved surfaces, the detail commander will command **“Detail, FALL IN.” **
+* When on improved surfaces, the detail commander will command **“Detail, FALL IN.”**
 * Once the detail is in the proper formation, the detail commander will give proper commands to move his/her detail from one location to the next as quickly as possible.
-* When on unimproved surfaces, the detail commander will command **“Detail, FALL IN.” **
+* When on unimproved surfaces, the detail commander will command **“Detail, FALL IN.”**
 * Once the detail is in the proper formation, the detail commander will command **“At ease, MARCH,”** at which time the detail will take one 24-inch step and assume marching at ease. 
 * During at ease march, the only command that may be given is **Incline to the Right (Left)**. 
 * The detail must be at attention to call any other commands.
@@ -380,7 +380,7 @@ Building Entry/Departure
 | Entrance and departure procedures are necessary in order to promote good order and discipline among cadets while entering or exiting any permanent structure, including academic buildings, dormitories, etc. These procedures apply to squadron, flight, and detail formations. If a door becomes propped in the open position, the last cadet entering will close it.
 
 #. Upon halting the flight and prior to entering the facility, the Cadet Flt/CC will command, **“Guidon bearer, secure the guidon and post the door.”**
-#. If there is no guidon, the Cadet Flt/CC will command **“Guide, post the door.”** The Cadet Flt/CC will then command, **“COLUMN OF FILES FROM THE RIGHT (LEFT), FORWARD.” **
+#. If there is no guidon, the Cadet Flt/CC will command **“Guide, post the door.”** The Cadet Flt/CC will then command, **“COLUMN OF FILES FROM THE RIGHT (LEFT), FORWARD.”**
 #. Upon the Cadet Flt/CC’s command of **“FORWARD,”** the element leader of the selected element turns his/her head 45 degrees to the right (left) and echoes the Cadet Flt/CC’s command of “FORWARD.” 
 #. At the same time the remaining element leader(s) turns his/her head 45 degrees to the right (left) and commands, **“STAND FAST.”**  Their heads stay turned until they step off.
 #. After all element leaders have echoed the appropriate command, the Cadet Flt/CC will command, **“MARCH.”**
