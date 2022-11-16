@@ -20,6 +20,7 @@ DFAC Procedures
 ------------------------------
 
 ::
+
     Insert Video 1 here
 
     Insert Video 2 here
@@ -99,6 +100,6 @@ Additional Information
 ----------------------------------
 
 * Bed Making (2022 FTM page 77-78)
-* Reporting Accountability - 'https://youtu.be/U9-MKmBIGBo <https://youtu.be/U9-MKmBIGBo>'
+* Reporting Accountability - https://youtu.be/U9-MKmBIGBo
 * PT Verbiage (2022 FTM Page 64-65)
-* Folding Clothes - 'https://youtu.be/4HiGA5p2M4I <https://youtu.be/4HiGA5p2M4I>'
+* Folding Clothes - https://youtu.be/4HiGA5p2M4I
