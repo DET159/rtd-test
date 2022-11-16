@@ -63,10 +63,10 @@ Basic Flight Drill
 
 | **Line and Inverted Line Formation**
 
-A flight forms in at least two, but not more than four, elements in line formation. The command is FALL IN. ::
+A flight forms in at least two, but not more than four, elements in line formation. The command is FALL IN.
 
-    Insert Image 1 here
-
+.. image:: images/Obj_7_1.png
+    :align: center
 
 **Column and Inverted Column Formation**
  
@@ -77,9 +77,10 @@ A flight forms in at least two, but not more than four, elements in line formati
 | **Column Formation:** To align the flight in column, the command is COVER. On this command, everyone except the guide adjusts by taking small choppy steps if needed and establishes dress, cover, interval, and distance. The leading individual of each file (excluding the base file) obtains the proper interval (normal or close). The base file, the file on which a movement is planned, regulated, or aligned, establishes and maintains a 40-inch distance. All others align themselves beside the individual to their right and behind the individual in front of them.
 
 
-**Inverted Column Formation:** (GENERALLY NOT RECOMMENDED). The same command and procedures used to reestablish dress, cover, interval, and distance while in column formation are used in inverted column. The exception to this is the leading individual of the base element does not move and everyone else establishes dress, cover, interval, and distance based on this individual. ::
+**Inverted Column Formation:** (GENERALLY NOT RECOMMENDED). The same command and procedures used to reestablish dress, cover, interval, and distance while in column formation are used in inverted column. The exception to this is the leading individual of the base element does not move and everyone else establishes dress, cover, interval, and distance based on this individual.
 
-    Insert Image 2 here
+.. image:: images/Obj_7_1.png
+    :align: center
 
 | **Forward March**
 
@@ -106,9 +107,9 @@ Intermediate Flight Drill
 | The guide performs the pivots and steps exactly as the element leader to which they are affixed. Following completion of the pivots, the guide continues in a 24-inch step until he or she is ahead of the fourth element leader. The guide pivots 45 degrees to a position in front of the fourth element leader; then he or she pivots 45 degrees again toward the front and begins half stepping.
 
 | Once the entire formation has changed direction and dress, cover, interval, and distance are reestablished, Forward March will be called to resume normal marching. 
-::
 
-    Insert Image 3 here
+.. image:: images/Obj_7_1.png
+    :align: center
 
 | **Column Half Right (Left):** The Command, “COLUMN HALF RIGHT (LEFT) MARCH”, is called on the right foot if going right and left foot if going left. Differing from a normal Column Right (Left), all three element leaders turn 45 degrees simultaneously. The first element leader will go to half-step, joined by the second, until all three are in-line with each other. Once they are, they will automatically resume the normal 24-inch step (no forward march is called after the movement is completed).
 
