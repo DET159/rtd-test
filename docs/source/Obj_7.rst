@@ -1,10 +1,8 @@
-Drill Positions and Movement
+Objective 7: Drill Positions and Movement
 =============================
 
 Reference: DAFPAM 34-1203
 
-|
-|
 
 Fundamentals and Stationary Movements
 ------------------------
@@ -29,7 +27,7 @@ Fundamentals and Stationary Movements
 | The command is “REST”. On the command “REST”, the same requirements for at ease apply, but moderate speech is permitted.
 
 
-|**Fall Out**
+| **Fall Out**
 
 | The command is “FALL OUT”. On the command “FALL OUT”, individuals may relax in a standing position or break ranks. They must remain in the immediate area, and no specific method of dispersal is required. Moderate speech is permitted.
 
@@ -74,7 +72,7 @@ A flight forms in at least two, but not more than four, elements in line formati
  
 | A flight forms in at least two, but not more than four, elements in line formation. The command is FALL IN.
 
-|**Cover**
+| **Cover**
 
 | **Column Formation:** To align the flight in column, the command is COVER. On this command, everyone except the guide adjusts by taking small choppy steps if needed and establishes dress, cover, interval, and distance. The leading individual of each file (excluding the base file) obtains the proper interval (normal or close). The base file, the file on which a movement is planned, regulated, or aligned, establishes and maintains a 40-inch distance. All others align themselves beside the individual to their right and behind the individual in front of them.
 
