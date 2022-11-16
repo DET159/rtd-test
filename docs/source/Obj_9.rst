@@ -19,12 +19,24 @@ Dorm Maintenance
 DFAC Procedures
 ------------------------------
 
-::
+.. raw:: html
 
-    Insert Video 1 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/EFj2mFUn_44" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
+.. raw:: html
 
-    Insert Video 2 here
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/pyqoDFrCGXQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
+.. raw:: html
 
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/o7kHrl2j_l8" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+| 
 **Entrance Procedures**
 
 #. Flights will arrive no more than 3 minutes before or after their scheduled dining priorities.
@@ -100,6 +112,19 @@ Additional Information
 ----------------------------------
 
 * Bed Making (2022 FTM page 77-78)
-* Reporting Accountability - https://youtu.be/U9-MKmBIGBo
+* Reporting Accountability
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/U9-MKmBIGBo" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+|
+
 * PT Verbiage (2022 FTM Page 64-65)
-* Folding Clothes - https://youtu.be/4HiGA5p2M4I
+* Folding Clothes
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/4HiGA5p2M4I" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+|
