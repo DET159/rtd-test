@@ -80,14 +80,16 @@ The Colors return to their original position once the commanders depart for the 
 
 Award Ceremonies
 ------------------------
-    The presentation of decorations and awards to military or civilian personnel and the appending of unit decoration streamers, battle honors, and service streamers onto an Air Force organizational flag are made at a parade. The same parade may honor persons and units who are to be decorated or receive awards and persons who are retiring. |br|
+    
+The presentation of decorations and awards to military or civilian personnel and the appending of unit decoration streamers, battle honors, and service streamers onto an Air Force organizational flag are made at a parade. The same parade may honor persons and units who are to be decorated or receive awards and persons who are retiring. |br|
 
-    Persons to be decorated are positioned before the start of the ceremony on the right side of the reviewing stand. They line up in columns according to rank of the decorations to be conferred, with the highest-ranking decoration in front. |br|
+Persons to be decorated are positioned before the start of the ceremony on the right side of the reviewing stand. They line up in columns according to rank of the decorations to be conferred, with the highest-ranking decoration in front. |br|
 
-    After the command has been presented, the reviewing officer instructs the Commander of Troops to have the persons to be decorated (receive awards, etc.) and the Colors brought forward. |br|
+After the command has been presented, the reviewing officer instructs the Commander of Troops to have the persons to be decorated (receive awards, etc.) and the Colors brought forward. |br|
 
-    The Commander of Troops passes around the right flank of the detachment and proceeds directly to the normal post. On reaching the post, he or she brings the Airmen to present arms, faces about, and brings the staff to present arms. The band then plays the national anthem or To The Colors. On completion of the music, the Commander of Troops brings the staff to order arms, faces about, and brings the Airmen to order arms and parade rest. On the command of the senior flagbearer, the persons to be decorated (receive awards, etc.) and the color guard come to present arms for the national anthem or To The Colors. When the music ceases, they execute order arms on the command. |br|
-    The citation or order announcing the awards is read. As the citation (order) is read, the reviewing officer and staff (or certain members of the staff) advance to the flags and the line of persons to be decorated. The reviewing officer fastens the streamer immediately below the staff ornament of the flagstaff. |br|
+The Commander of Troops passes around the right flank of the detachment and proceeds directly to the normal post. On reaching the post, he or she brings the Airmen to present arms, faces about, and brings the staff to present arms. The band then plays the national anthem or To The Colors. On completion of the music, the Commander of Troops brings the staff to order arms, faces about, and brings the Airmen to order arms and parade rest. On the command of the senior flagbearer, the persons to be decorated (receive awards, etc.) and the color guard come to present arms for the national anthem or To The Colors. When the music ceases, they execute order arms on the command. |br|
+
+The citation or order announcing the awards is read. As the citation (order) is read, the reviewing officer and staff (or certain members of the staff) advance to the flags and the line of persons to be decorated. The reviewing officer fastens the streamer immediately below the staff ornament of the flagstaff. |br|
 
     *See DAFPAM 34-1203 page 70 for an in-depth look at Award Ceremonies*
 

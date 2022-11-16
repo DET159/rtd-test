@@ -101,10 +101,12 @@ Demonstrate the Principles of an Effective Debrief
 * Chosen from CF
  
 **Instructional Fix (IF)[HOW]:**
+
 * Course of action to prevent your RC during next mission
 * HOW you changed
  
 **Lessons Learned (LL):**
+
 * WHEN - During…
 * WHAT - I will not [RC]...
 * HOW - By doing [IF]
