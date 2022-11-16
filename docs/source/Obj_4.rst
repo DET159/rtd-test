@@ -75,9 +75,12 @@ Per AFI 34-1201 *Protocol:* |br|
 
 **Position and Manner of Display:**
 
-When carried in a procession with another flag or flags, the United States Flag should be either on the marching right; that is, to the flag’s own right (to the far right of all others), or, if there is a line of other flags, in front of the centerline. The United States Flag when carried by military members is never at half-staff. ::
+When carried in a procession with another flag or flags, the United States Flag should be either on the marching right; that is, to the flag’s own right (to the far right of all others), or, if there is a line of other flags, in front of the centerline. The United States Flag when carried by military members is never at half-staff.
 
-    Insert Image 1 here
+.. figure:: Obj_4_1.png
+    :align: center
+
+    United States Flag Carried in Procession with Another Flag
 
 The United States Flag, when it is displayed with another flag against a wall from crossed staffs, should be on the right, the flag’s own right (observer’s left), and its staff should be in front of the staff of the other flag. ::
 
