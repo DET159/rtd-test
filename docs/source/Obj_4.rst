@@ -97,6 +97,7 @@ When a number of flags are grouped and displayed from staffs radiating from a ce
     United States Flag Displayed with Other Flags Radiating from a Central Point
 
 When a number of flags are displayed from staffs set in a line, all staffs will be of the same height and have the same style finials, or decorative devices, at the top of the flagpoles (Service specific guidance may differ in a joint environment). The United States Flag will be at the right, which is to the left of an observer facing the display. However, if no foreign national flags are involved in the display, the United States Flag may be placed at the center of the line providing it is displayed at a higher level than the other flags in the display
+
 .. figure:: images/Obj_4_4.png
     :align: center
 
