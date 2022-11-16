@@ -20,7 +20,6 @@ Saluting
     </div>
 | 
 |
-
 The salute is one of the oldest military traditions. It is a courtesy exchanged between members of the armed forces as both a greeting and a symbol of mutual respect. Cadets adhere to DAFPAM 34-1203, Drill and Ceremonies, para 3.6 Exchange of Salutes. The uniform hat is worn and salutes are rendered in all outdoor areas, unless specifically indicated otherwise. Although inappropriate at certain times, it is never incorrect to salute a senior officer outdoors as a courtesy and a greeting. Do not salute indoors unless formally reporting in to a staff member's office or upon receiving an award at an awards ceremony. Do not salute when reporting to enlisted staff members.
 
 
@@ -157,7 +156,6 @@ Reveille
     </div>
 | 
 | 
-
 #. The Detail Commander will call **Standby, Detail Fall In**
 
     * All commands except sound reveille and attention to the colors will be done in a hushed tone.
@@ -220,7 +218,6 @@ Retreat
     </div>
 | 
 | 
-
 #. The Detail Commander will call **Standby, Detail Fall In**
 
     * All commands except sound retreat and attention to the colors will be done in a hushed tone
